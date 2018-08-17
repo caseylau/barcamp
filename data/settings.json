@@ -113,20 +113,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
+    "name": "NYU Shanghai",
     "city": "ShangHai",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "short": "NYU",
+    "address": "1555 Century Avenue, Pudong, Shanghai, China 200122",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 121.540669,
+      "longitude": 31.231978,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "NYU Shanghai 1555 Century Avenue, Pudong, Shanghai, China 200122"
   },
   "mediaQueries": {
     "xs": {
