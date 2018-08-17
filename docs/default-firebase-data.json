@@ -66,59 +66,33 @@
     "test" : { },
     "users" : { }
   },
-  "partners" : [ {
+  "partners" : [
+  {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
+      "logoUrl" : "../images/logos/techyizu.png",
       "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164"
+      "url" : "https://www.techyizu.org/"
     } ],
-    "title" : "Template Creator"
-  }, {
+    "title" : "Organizer"
+  },
+  {
     "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "logoUrl" : "../images/logos/techyizu.png",
+      "name" : "nyu",
+      "url" : "https://www.techyizu.org/"
     }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
+      "logoUrl" : "../images/logos/chinaccelerator.png",
+      "name" : "chinaccelerator",
+      "url" : "https://chinaccelerator.com/"
     }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "logoUrl" : "../images/logos/people.png",
+      "name" : "people",
+      "url" : "http://www.people-squared.com/"
     }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    } ],
+      "logoUrl" : "../images/logos/nyu.png",
+      "name" : "NYU",
+      "url" : "https://shanghai.nyu.edu/"
+    }],
     "title" : "General Partner"
   } ],
   "schedule" : {
@@ -682,7 +656,7 @@
       } ],
       "title" : "Product Manager/Developer"
     },
-    "aleksander_piotrowski" : {
+    "skyred" : {
       "bio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
       "company" : "Applause",
       "companyLogo" : "/images/logos/gdg-lviv.svg",
@@ -690,7 +664,7 @@
       "country" : "Warsaw, Poland",
       "featured" : false,
       "name" : "Aleksander Piotrowski",
-      "photo" : "/images/people/aleksander_piotrowski.jpg",
+      "photo" : "../images/peoples/skyred.jpg",
       "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
       "shortBio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
       "socials" : [ {
