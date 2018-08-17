@@ -114,12 +114,12 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "What is Barcamp? Barcamp is unique kind of technology event, because the goal is to give everyone -- including YOU -- an opportunity to share ideas and actively participate.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "At every Barcamp there is a big board with a grid. On one side are various room numbers, and on the other is time, in 30 minute increments.ANYONE who wants to give a presentation or demonstration simply writes their name and topic in one of the squares. There are multiple sessions going at once throughout the day, so there are enough opportunities for everyone to have time (if they want it).",
         "label": "See how it was in 2016",
         "youtubeId": "TdpbgRgz6eE"
       }
