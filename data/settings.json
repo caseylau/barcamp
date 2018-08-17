@@ -46,7 +46,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "An opportunity to share ideas and actively participate!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -114,7 +114,7 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Lviv",
+    "city": "ShangHai",
     "short": "Lviv, Ukraine",
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "pointer": {
