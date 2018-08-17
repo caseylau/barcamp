@@ -36,18 +36,13 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "Barcamp",
+          "url": "https://barcamp.cn/",
           "newTab": true
         },
         {
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "Techyizu",
+          "url": "https://www.techyizu.org/",
           "newTab": true
         }
       ]
