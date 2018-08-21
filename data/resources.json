@@ -162,10 +162,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Barcamp featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": "https://www.youtube.com/watch?v=bSXRJsCwSvM&list=PLy3huOjv1sxxXHwBtmM-wOtEDABTgB8U2"
     }
   },
   "blog": {
