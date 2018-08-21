@@ -47,14 +47,14 @@
     }
   },
   "gallery" : [
-    "https://firebasestorage.googleapis.com/v0/b/barcampsh-ebbd9.appspot.com/o/0.jpg?alt=media&token=66be97e2-cbb9-482a-9b55-4c510adf0f5e",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://barcampsh-ebbd9.firebaseapp.com/images/gallery/gallery-a.jpg",
+    "https://barcampsh-ebbd9.firebaseapp.com/images/gallery/gallery-b.jpg",
+    "https://barcampsh-ebbd9.firebaseapp.com/images/gallery/gallery-c.jpg",
+    "https://barcampsh-ebbd9.firebaseapp.com/images/gallery/gallery-d.jpg",
+    "https://barcampsh-ebbd9.firebaseapp.com/images/gallery/gallery-e.jpg",
+    "https://barcampsh-ebbd9.firebaseapp.com/images/gallery/gallery-f.jpg",
+    "https://barcampsh-ebbd9.firebaseapp.com/images/gallery/gallery-g.jpg",
+    "https://barcampsh-ebbd9.firebaseapp.com/images/gallery/gallery-h.jpg"
   ],
   "notifications" : {
     "config" : {
