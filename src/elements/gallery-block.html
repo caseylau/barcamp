@@ -131,7 +131,7 @@
       <template is="dom-repeat" items="[[gallery]]" as="photo">
         <plastic-image
           class="grid-item"
-          srcset="[[photo.url]]"
+          srcset="{{photo.url}}"
           sizing="cover"
           lazy-load preload fade
         ></plastic-image>
@@ -160,25 +160,30 @@
         return {
           gallery: {
             type: Array,
-            statePath: 'gallery.list',
           },
           galleryFetching: {
             type: Boolean,
-            statePath: 'gallery.fetching',
+            // statePath: 'gallery.fetching',
           },
           galleryFetchingError: {
             type: Object,
-            statePath: 'gallery.fetchingError',
+            // statePath: 'gallery.fetchingError',
           },
         };
       }
 
       connectedCallback() {
         super.connectedCallback();
-
-        if (!this.gallery || !this.gallery.length) {
-          this.dispatch(galleryActions.fetchGallery());
-        }
+        this.gallery = [
+            { url: '../../images/gallery/gallery-a.jpg' },
+            { url: '../../images/gallery/gallery-b.jpg' },
+            { url: '../../images/gallery/gallery-c.jpg' },
+            { url: '../../images/gallery/gallery-d.jpg' },
+            { url: '../../images/gallery/gallery-e.png' },
+            { url: '../../images/gallery/gallery-f.jpg' },
+            { url: '../../images/gallery/gallery-g.jpg' },
+            { url: '../../images/gallery/gallery-h.jpg' },
+        ];
       }
     }
 
