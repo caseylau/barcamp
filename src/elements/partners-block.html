@@ -62,7 +62,7 @@
       <template is="dom-repeat" items="[[partners]]" as="block">
           <h4 class="block-title">[[block.title]]</h4>
           <div class="logos-wrapper">
-            <template is="dom-repeat" items="[[block.items]]" as="logo">
+            <template is="dom-repeat" items="[[block.logos]]" as="logo">
               <a
                 class="logo-item card"
                 href$="[[logo.url]]"
@@ -103,33 +103,62 @@
         return {
           partners: {
             type: Array,
-            statePath: 'partners.list',
+            // statePath: 'partners.list',
           },
           partnersFetching: {
             type: Boolean,
-            statePath: 'partners.fetching',
+            // statePath: 'partners.fetching',
           },
           partnersFetchingError: {
             type: Object,
-            statePath: 'partners.fetchingError',
+            // statePath: 'partners.fetchingError',
           },
           partnerAdding: {
             type: Boolean,
             statePath: 'partners.adding',
-            observer: '_partnerAddingChanged',
+            // observer: '_partnerAddingChanged',
           },
           partnerAddingError: {
             type: Object,
-            statePath: 'partners.addingError',
+            // statePath: 'partners.addingError',
           },
         };
       }
 
       connectedCallback() {
         super.connectedCallback();
-        if (!this.partnersFetching && (!this.partners || !this.partners.length)) {
-          this.dispatch(partnersActions.fetchPartners());
-        }
+        // if (!this.partnersFetching && (!this.partners || !this.partners.length)) {
+        //   this.dispatch(partnersActions.fetchPartners());
+        // }
+          this.partners = [
+              {
+                  'logos': [{
+                      'logoUrl': '../../images/logos/techyizu.png',
+                      'name': 'GDG Lviv',
+                      'url': 'https://www.techyizu.org/',
+                  }],
+                  'title': 'Organizer',
+              },
+              {
+                  'logos': [{
+                      'logoUrl': '../../images/logos/chinaccelerator.png',
+                      'name': 'nyu',
+                      'url': 'https://www.techyizu.org/',
+                  }, {
+                      'logoUrl': '../../images/logos/nyu.png',
+                      'name': 'nyu',
+                      'url': 'https://www.techyizu.org/',
+                  }, {
+                      'logoUrl': '../../images/logos/people.png',
+                      'name': 'nyu',
+                      'url': 'https://www.techyizu.org/',
+                  }, {
+                      'logoUrl': '../../images/logos/techyizu.png',
+                      'name': 'nyu',
+                      'url': 'https://www.techyizu.org/',
+                  }],
+                  'title': 'General Partner',
+              }];
       }
 
       _addPotentialPartner() {
