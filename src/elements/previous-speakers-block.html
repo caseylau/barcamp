@@ -105,34 +105,54 @@
         return {
           speakersRaw: {
             type: Array,
-            statePath: 'previousSpeakers.list',
-            observer: '_generateSpeakers',
+            // statePath: 'previousSpeakers.list',
+            // observer: '_generateSpeakers',
           },
           speakersFetching: {
             type: Boolean,
-            statePath: 'previousSpeakers.fetching',
+            // statePath: 'previousSpeakers.fetching',
           },
           speakersFetchingError: {
             type: Object,
-            statePath: 'previousSpeakers.fetchingError',
+            // statePath: 'previousSpeakers.fetchingError',
           },
           viewport: {
             type: Object,
-            statePath: 'ui.viewport',
+            // statePath: 'ui.viewport',
+          },
+          speakers: {
+            type: Object,
+            computed: '_computeData()',
           },
         };
       }
-
-      connectedCallback() {
-        super.connectedCallback();
-        if (!this.speakersFetching && (!this.speakers || !this.speakers.length)) {
-          this.dispatch(previousSpeakersActions.fetchList());
-        }
+      _computeData() {
+        var response = '';
+        this._getResource({
+          url: '../../data/previous_speakers.json',
+          onLoad(e) {
+            response = JSON.parse(e.target.responseText);
+          },
+        });
+        return response;
       }
 
-      _generateSpeakers(speakersRaw) {
-        this.set('speakers', this.randomOrder(speakersRaw).slice(0, this.viewport.isPhone ? 8 : 14));
+      _getResource(rq) {
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', rq.onLoad.bind(this));
+        xhr.open('GET', rq.url, false);
+        xhr.send();
       }
+      // connectedCallback() {
+      //   super.connectedCallback();
+      //   if (!this.speakersFetching && (!this.speakers || !this.speakers.length)) {
+      //     this.dispatch(previousSpeakersActions.fetchList());
+      //   }
+      // }
+
+      // _generateSpeakers(speakersRaw) {
+      //   this.set('speakers', this.randomOrder(speakersRaw).slice(0, this.viewport.isPhone ? 8 : 14));
+      // }
     }
 
     window.customElements.define(PreviousSpeakersBlock.is, PreviousSpeakersBlock);
