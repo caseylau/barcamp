@@ -1,0 +1,82 @@
+[
+  {
+    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+    "company": "Sygic",
+    "companyLogo": "../../images/people/company/acquia.png",
+    "companyLogoUrl": "../../images/people/company/acquia.png",
+    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "featured": true,
+    "name": "Skyred Wang",
+    "photo": "../../images/people/hacker.jpg",
+    "photoUrl": "../../images/people/hacker.jpg",
+    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+    "socials": [
+      {
+        "icon": "gplus",
+        "link": "plus.google.com/+AdrianKajda",
+        "name": "Google+"
+      }
+    ],
+    "title": "Product Manager/Developer"
+  },
+  {
+    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+    "company": "Sygic",
+    "companyLogo": "../../images/people/company/facebook.jpeg",
+    "companyLogoUrl": "../../images/people/company/facebook.jpeg",
+    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "featured": true,
+    "name": "Obama",
+    "photo": "../../images/people/hacker.jpg",
+    "photoUrl": "../../images/people/hacker.jpg",
+    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+    "socials": [
+      {
+        "icon": "gplus",
+        "link": "plus.google.com/+AdrianKajda",
+        "name": "Google+"
+      }
+    ],
+    "title": "Product Manager/Developer"
+  },
+  {
+    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+    "company": "Sygic",
+    "companyLogo": "../../images/people/company/google.png",
+    "companyLogoUrl": "../../images/people/company/google.png",
+    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "featured": true,
+    "name": "Adrian Kajda",
+    "photo": "../../images/people/hacker.jpg",
+    "photoUrl": "../../images/people/hacker.jpg",
+    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+    "socials": [
+      {
+        "icon": "gplus",
+        "link": "plus.google.com/+AdrianKajda",
+        "name": "Google+"
+      }
+    ],
+    "title": "Product Manager/Developer"
+  },
+  {
+    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+    "company": "Sygic",
+    "companyLogo": "../../images/people/company/microsoft.png",
+    "companyLogoUrl": "../../images/people/company/microsoft.png",
+    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "featured": true,
+    "name": "Adrian Kajda",
+    "photo": "../../images/people/hacker.jpg",
+    "photoUrl": "../../images/people/hacker.jpg",
+    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+    "socials": [
+      {
+        "icon": "gplus",
+        "link": "plus.google.com/+AdrianKajda",
+        "name": "Google+"
+      }
+    ],
+    "title": "Product Manager/Developer"
+  }
+]

@@ -222,12 +222,29 @@
 
       static get properties() {
         return {
-          speakersRaw: {
+          featuredSpeakers: {
             type: Object,
-            statePath: 'speakers.list',
-            observer: '_generateSpeakers',
+            computed: '_computeData()',
           },
         };
+      }
+
+      _computeData() {
+        var response = '';
+        this._getResource({
+          url: '../../data/speakers_block.json',
+          onLoad(e) {
+            response = JSON.parse(e.target.responseText);
+          },
+        });
+        return response;
+      }
+
+      _getResource(rq) {
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', rq.onLoad.bind(this));
+        xhr.open('GET', rq.url, false);
+        xhr.send();
       }
 
       _openSpeaker(e) {
@@ -235,12 +252,12 @@
         window.history.pushState({}, null, `/speakers/${e.model.speaker.id}/`);
         window.dispatchEvent(new CustomEvent('location-changed'));
       }
-
-      _generateSpeakers(speakers) {
-        const filteredSpeakers = this.speakers
-          .filter((speaker) => speaker.featured);
-        this.set('featuredSpeakers', this.randomOrder(filteredSpeakers).slice(0, 4));
-      }
+      //
+      // _generateSpeakers(speakers) {
+      //   const filteredSpeakers = this.speakers
+      //     .filter((speaker) => speaker.featured);
+      //   this.set('featuredSpeakers', this.randomOrder(filteredSpeakers).slice(0, 4));
+      // }
     }
 
     window.customElements.define(SpeakersBlock.is, SpeakersBlock);
