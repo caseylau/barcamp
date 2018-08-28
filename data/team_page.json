@@ -1,0 +1,103 @@
+[
+  {
+  "members" : [ {
+    "name" : "Gabriel P.",
+    "photo" : "/images/team/gabriel-p.jpeg",
+    "photoUrl" : "/images/team/gabriel-p.jpeg",
+    "socials" : [],
+    "title" : "Co-Organizer"
+  }, {
+    "name" : "Skyred Wang",
+    "photo" : "/images/team/skyred.jpg",
+    "photoUrl" : "/images/team/skyred.jpg",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+JingshengWang",
+      "name" : "Google+"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/skyred",
+      "name" : "Facebook"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/skyredwang",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://insready.com/en/blogs",
+      "name" : "Blog"
+    } ],
+    "title" : "Co-Organizer"
+  }, {
+    "name" : "Kevin C.",
+    "photo" : "/images/team/kevin.jpeg",
+    "photoUrl" : "/images/team/kevin.jpeg",
+    "socials" : [],
+    "title" : "Co-Organizer"
+  }, {
+    "name" : "Casey Lau",
+    "photo" : "/images/team/caseylau.png",
+    "photoUrl" : "/images/team/caseylau.png",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/helloxiaoxin",
+      "name" : "Facebook"
+    }],
+    "title" : "Co-Organizer"
+  }, {
+    "name" : "Noah",
+    "photo" : "/images/team/noah.jpeg",
+    "photoUrl" : "/images/team/noah.jpeg",
+    "socials" : [],
+    "title" : "Co-Organizer"
+  }, {
+    "name" : "Benton",
+    "photo" : "/images/team/benton.jpeg",
+    "photoUrl" : "/images/team/benton.jpeg",
+    "socials" : [],
+    "title" : "Co-Organizer"
+  }, {
+    "name" : "Jo G.",
+    "photo" : "/images/team/Jo-g.jpeg",
+    "photoUrl" : "/images/team/Jo-g.jpeg",
+    "socials" : [],
+    "title" : "Co-Organizer"
+  } ],
+  "title" : "Core Team"
+}, {
+  "members" : [ {
+    "name" : "Skyred Wang",
+    "photo" : "/images/team/skyred.jpg",
+    "photoUrl" : "/images/team/skyred.jpg",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+JingshengWang",
+      "name" : "Google+"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/skyred",
+      "name" : "Facebook"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/skyredwang",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://insready.com/en/blogs",
+      "name" : "Blog"
+    } ],
+    "title" : "Tech leader"
+  }, {
+    "name" : "Casey Lau",
+    "photo" : "/images/team/caseylau.png",
+    "photoUrl" : "/images/team/caseylau.png",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/helloxiaoxin",
+      "name" : "Facebook"
+    }],
+    "title" : "programmer"
+  } ],
+  "title" : "Program Committee"
+}
+]

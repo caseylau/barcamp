@@ -180,24 +180,43 @@
           active: Boolean,
           team: {
             type: Array,
-            statePath: 'team.list',
+            computed: '_computeData()',
+            // statePath: 'team.list',
           },
           teamFetching: {
             type: Boolean,
-            statePath: 'team.fetching',
+            // statePath: 'team.fetching',
           },
           teamFetchingError: {
             type: Object,
-            statePath: 'team.fetchingError',
+            // statePath: 'team.fetchingError',
           },
         };
       }
 
+      _computeData() {
+        var response = '';
+        this._getResource({
+          url: '../../data/team_page.json',
+          onLoad(e) {
+            response = JSON.parse(e.target.responseText);
+          },
+        });
+        return response;
+      }
+
+      _getResource(rq) {
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', rq.onLoad.bind(this));
+        xhr.open('GET', rq.url, false);
+        xhr.send();
+      }
+
       connectedCallback() {
         super.connectedCallback();
-        if (!this.teamFetching && (!this.team || !this.team.length)) {
-          this.dispatch(teamActions.fetchTeam());
-        }
+        // if (!this.teamFetching && (!this.team || !this.team.length)) {
+        //   this.dispatch(teamActions.fetchTeam());
+        // }
       }
     }
 
