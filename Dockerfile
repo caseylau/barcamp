@@ -6,5 +6,7 @@ RUN chown -R node:node /app
 USER node
 WORKDIR /app
 
+RUN npm install
+
 EXPOSE 3000 3001
-CMD npm install && npm run gulp -- serve
+CMD npm run gulp -- serve
