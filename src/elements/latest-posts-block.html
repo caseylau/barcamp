@@ -136,34 +136,57 @@
         return {
           viewport: {
             type: Object,
-            statePath: 'ui.viewport',
+            // statePath: 'ui.viewport',
           },
-          posts: Array,
+          posts: {
+            type: Array,
+            computed: '_computeData()',
+          },
           postsList: {
             type: Array,
-            statePath: 'blog.list',
-            observer: '_transformPosts',
           },
           postsFetching: {
             type: Boolean,
-            statePath: 'blog.fetching',
+            // statePath: 'blog.fetching',
           },
           postsFetchingError: {
             type: Object,
-            statePath: 'blog.fetchingError',
+            // statePath: 'blog.fetchingError',
           },
         };
       }
 
-      connectedCallback() {
-        super.connectedCallback();
-        if (!this.postsFetching && (!this.postsList || !this.postsList.length)) {
-          this.dispatch(blogActions.fetchList());
-        }
+
+      _computeData() {
+        var response = '';
+        this._getResource({
+
+          url: '../../data/latest_posts_block.json',
+          onLoad(e) {
+            response = JSON.parse(e.target.responseText);
+          },
+        });
+        return response;
       }
 
-      _transformPosts(postsList) {
-        this.set('posts', postsList.slice(0, 4));
+      _getResource(rq) {
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', rq.onLoad.bind(this));
+        xhr.open('GET', rq.url, false);
+        xhr.send();
+      }
+
+      connectedCallback() {
+        super.connectedCallback();
+        console.log(this.posts);
+
+      //   // if (!this.postsFetching && (!this.postsList || !this.postsList.length)) {
+      //   //   this.dispatch(blogActions.fetchList());
+      //   // }
+      // }
+
+      // _transformPosts(postsList) {
+      //   this.set('posts', postsList.slice(0, 4));
       }
     }
 

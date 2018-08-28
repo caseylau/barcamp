@@ -11,7 +11,7 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Attend",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -127,19 +127,19 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "500"
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "30"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
@@ -260,18 +260,18 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='https://www.techyizu.org/' target='_blank'>Techyizu</a> is a non-profit volunteer-driven organization that supports the China startup and tech community.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "What is Techyizu?",
+        "description": "Techyizu organize events for people with a passion for technology, entrepreneurship, and social innovation. We believe in an open community for sharing knowledge and experience.",
         "callToAction": {
           "label": "Read more",
-          "link": "https://developers.google.com/groups/",
+          "link": "https://www.techyizu.org/page/about/",
           "newTab": true
         }
       }
