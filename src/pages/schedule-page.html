@@ -109,12 +109,12 @@
             viewport="[[viewport]]"
           ></schedule-day>
         </template>
-        <my-schedule
-          name="my-schedule"
-          schedule="[[schedule]]"
-          user="[[user]]"
-          featured-sessions="[[featuredSessions]]"
-        ></my-schedule>
+        <!--<my-schedule-->
+          <!--name="my-schedule"-->
+          <!--schedule="[[schedule]]"-->
+          <!--user="[[user]]"-->
+          <!--featured-sessions="[[featuredSessions]]"-->
+        <!--&gt;</my-schedule>-->
       </iron-pages>
     </div>
 
@@ -136,7 +136,8 @@
           active: Boolean,
           schedule: {
             type: Array,
-            statePath: 'schedule',
+            // statePath: 'schedule',
+            computed: '_computeDataScedule()',
           },
           featuredSessions: {
             type: Object,
@@ -161,6 +162,24 @@
             statePath: 'ui.viewport',
           },
         };
+      }
+
+      _computeDataScedule() {
+        var response = '';
+        this._getResourceScedule({
+          url: '../../data/schedule.json',
+          onLoad(e) {
+            response = JSON.parse(e.target.responseText);
+          },
+        });
+        return response;
+      }
+
+      _getResourceScedule(rq) {
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', rq.onLoad.bind(this));
+        xhr.open('GET', rq.url, false);
+        xhr.send();
       }
 
       static get observers() {
