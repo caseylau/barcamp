@@ -81,9 +81,9 @@
             <a href$="/schedule/[[day.date]]" layout vertical center-center>[[day.dateReadable]]</a>
           </paper-tab>
         </template>
-        <paper-tab class="nav-item" day="my-schedule" hidden$="[[!user.signedIn]]" link>
-          <a href="/schedule/my-schedule" layout vertical center-center>{$ mySchedule.title $}</a>
-        </paper-tab>
+        <!--<paper-tab class="nav-item" day="my-schedule" hidden$="[[!user.signedIn]]" link>-->
+          <!--<a href="/schedule/my-schedule" layout vertical center-center>{$ mySchedule.title $}</a>-->
+        <!--</paper-tab>-->
       </paper-tabs>
     </app-toolbar>
 
@@ -105,7 +105,8 @@
           },
           schedule: {
             type: Array,
-            statePath: 'schedule',
+            // statePath: 'schedule',
+            computed: '_computeDataScedule()',
           },
           contentLoaderVisibility: {
             type: Boolean,
@@ -118,6 +119,24 @@
         };
       }
 
+      _computeDataScedule() {
+        var response = '';
+        this._getResourceScedule({
+          url: '../../data/schedule.json',
+          onLoad(e) {
+            response = JSON.parse(e.target.responseText);
+          },
+        });
+        return response;
+      }
+
+      _getResourceScedule(rq) {
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', rq.onLoad.bind(this));
+        xhr.open('GET', rq.url, false);
+        xhr.send();
+      }
+
       static get observers() {
         return [
           '_scheduleChanged(schedule)',
@@ -127,7 +146,7 @@
       connectedCallback() {
         super.connectedCallback();
         // eslint-disable-next-line no-undef
-        HOVERBOARD.Elements.StickyHeaderToolbar = this;
+        HOVERBOARD.Elements.StickyHeaderToolbar = this;z
       }
 
       _scheduleChanged(schedule) {
