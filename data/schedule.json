@@ -2,203 +2,333 @@
   {
     "date": "2018-1-10",
     "dateReadable": "November 10",
+    "tags": [
+      "Drupal","Barcamp","WebStarter"
+    ],
     "timeslots": [
       {
-        "endTime": "10:00",
+        "startTime": "10:00",
         "sessions": [
           {
+            "gridArea": "1 / 1 / 1 / 1",
             "items": [
-              132
-            ]
-          }
-        ],
-        "startTime": "09:11"
-      },
-      {
-        "endTime": "10:15",
-        "sessions": [
-          {
-            "items": [
-              136
-            ]
-          }
-        ],
-        "startTime": "10:00"
-      },
-      {
-        "endTime": "11:00",
-        "sessions": [
-          {
-            "items": [
-              139
-            ]
-          }
-        ],
-        "startTime": "10:15"
-      },
-      {
-        "endTime": "11:40",
-        "sessions": [
-          {
-            "items": [
-              103,
-              112
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              }
             ]
           },
           {
+            "gridArea": "1 / 2 / 1 / 2",
             "items": [
-              120
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              }
             ]
           },
           {
-            "extend": 3,
+            "gridArea": "1 / 3 / 1 / 3",
             "items": [
-              109
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              }
             ]
           }
         ],
-        "startTime": "11:00"
+        "endTime": "11:11"
       },
       {
-        "endTime": "12:30",
+        "startTime": "11:00",
         "sessions": [
           {
+            "gridArea": "2 / 1 / 2 / 1",
             "items": [
-              129
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              }
             ]
           },
           {
+            "gridArea": "2 / 2 / 2 / 2",
             "items": [
-              116
-            ]
-          }
-        ],
-        "startTime": "11:50"
-      },
-      {
-        "endTime": "14:00",
-        "sessions": [
-          {
-            "items": [
-              133
-            ]
-          }
-        ],
-        "startTime": "12:30"
-      },
-      {
-        "endTime": "14:40",
-        "sessions": [
-          {
-            "items": [
-              101
-            ]
-          },
-          {
-            "items": [
-              118
-            ]
-          },
-          {
-            "extend": 2,
-            "items": [
-              107
-            ]
-          }
-        ],
-        "startTime": "14:00"
-      },
-      {
-        "endTime": "15:30",
-        "sessions": [
-          {
-            "items": [
-              140
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              }
             ]
           },
           {
+            "gridArea": "2 / 3 / 2 / 3",
             "items": [
-              126
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              }
             ]
           }
         ],
-        "startTime": "14:50"
+        "endTime": "11:59"
       },
       {
-        "endTime": "16:00",
+        "startTime": "14:00",
         "sessions": [
           {
+            "gridArea": "3 / 1 / 3 / 1",
             "items": [
-              134
-            ]
-          }
-        ],
-        "startTime": "15:30"
-      },
-      {
-        "endTime": "16:40",
-        "sessions": [
-          {
-            "items": [
-              105
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              }
             ]
           },
           {
+            "gridArea": "3 / 2 / 3 / 2",
             "items": [
-              127
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              }
             ]
           },
           {
-            "extend": 3,
+            "gridArea": "3 / 3 / 3 / 3",
             "items": [
-              119
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Drupal"],
+                "title" : "Hello Drupal"
+              }
             ]
           }
         ],
-        "startTime": "16:00"
-      },
-      {
-        "endTime": "17:30",
-        "sessions": [
-          {
-            "items": [
-              112
-            ]
-          },
-          {
-            "items": [
-              111
-            ]
-          }
-        ],
-        "startTime": "16:50"
-      },
-      {
-        "endTime": "18:20",
-        "sessions": [
-          {
-            "items": [
-              106
-            ]
-          },
-          {
-            "items": [
-              125
-            ]
-          }
-        ],
-        "startTime": "17:40"
-      },
-      {
-        "endTime": "22:30",
-        "sessions": [
-          {
-            "items": [
-              137
-            ]
-          }
-        ],
-        "startTime": "18:30"
+        "endTime": "14:59"
       }
     ],
     "tracks": [
