@@ -1,6 +1,12 @@
 [
   {
   "members" : [ {
+    "name" : "Roni Eshett",
+    "photo" : "/images/team/Roni-Eshett.jpeg",
+    "photoUrl" : "/images/team/Roni-Eshett.jpeg",
+    "socials" : [],
+    "title" : "Co-Organizer"
+  }, {
     "name" : "Gabriel P.",
     "photo" : "/images/team/gabriel-p.jpeg",
     "photoUrl" : "/images/team/gabriel-p.jpeg",
