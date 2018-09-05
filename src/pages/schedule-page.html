@@ -167,7 +167,7 @@
       _computeDataScedule() {
         var response = '';
         this._getResourceScedule({
-          url: '../../data/schedule.json',
+          url: 'https://raw.githubusercontent.com/caseylau/barcamp/master/data/schedule.json',
           onLoad(e) {
             response = JSON.parse(e.target.responseText);
           },
