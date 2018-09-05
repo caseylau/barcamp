@@ -14,7 +14,7 @@
             "items": [
               {
                 "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
+                "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["Drupal"],
                 "title" : "Hello Drupal",
