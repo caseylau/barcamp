@@ -13,11 +13,11 @@
             "gridArea": "1 / 1 / 1 / 4",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Start",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["Drupal"],
-                "title" : "Hello Drupal",
+                "tags": ["Announcement"],
+                "title" : "Barcamp/Drupalcamp announcement, pre-camp training(3 tracks).",
                 "track": {"title": "Expo hail"}
               }
             ]
