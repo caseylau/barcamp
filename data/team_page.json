@@ -2,18 +2,18 @@
   {
   "members" : [ 
   {
-    "name" : "Kevin C.",
+    "name" : "Kevin Chen",
     "photo" : "/images/team/kevin.jpeg",
     "photoUrl" : "/images/team/kevin.jpeg",
     "socials" : [],
-    "title" : "CEO @ iTalki Inc."
+    "title" : "CEO @ iTalki"
   }, {
     "name" : "Roni Eshett",
     "photo" : "/images/team/Roni-Eshett.jpeg",
     "photoUrl" : "/images/team/Roni-Eshett.jpeg",
     "socials" : [
     ],
-    "title" : ""
+    "title" : "Entrepreneur"
   }, {
     "name" : "Jingsheng Wang",
     "photo" : "/images/team/skyred.jpg",
@@ -31,7 +31,7 @@
       "link" : "https://insready.com/en/blogs",
       "name" : "Blog"
     } ],
-    "title" : "CEO @ INsReady Inc."
+    "title" : "CEO @ INsReady"
   }, {
     "name" : "Casey Lau",
     "photo" : "/images/team/caseylau.png",
@@ -46,23 +46,23 @@
   "title" : "Organizers"
 }, {
   "members" : [ {
-    "name" : "Gabriel P.",
+    "name" : "Gabriel Paquin",
     "photo" : "/images/team/gabriel-p.jpeg",
     "photoUrl" : "/images/team/gabriel-p.jpeg",
     "socials" : [],
-    "title" : "Volunteer"
+    "title" : "CTO @ EIC Group"
   }, {
-    "name" : "Benton",
+    "name" : "Benton Ray",
     "photo" : "/images/team/benton.jpeg",
     "photoUrl" : "/images/team/benton.jpeg",
     "socials" : [],
-    "title" : "Volunteer"
+    "title" : "Front End Developer @ Kawo"
   }, {
-    "name" : "Noah",
+    "name" : "Noah Solnick",
     "photo" : "/images/team/noah.jpeg",
     "photoUrl" : "/images/team/noah.jpeg",
     "socials" : [],
-    "title" : "Volunteer"
+    "title" : "Product Manager @ WeddingWire"
   } ],
   "title" : "Techyizu Alumni"
 }
