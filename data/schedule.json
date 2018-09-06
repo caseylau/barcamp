@@ -92,10 +92,27 @@
         "endTime": "11:59"
       },
       {
+        "startTime": "12:00",
+        "sessions": [
+          {
+            "gridArea": "3 / 1 / 3 / 4",
+            "items": [
+              {
+                "complexity": "Beginner",
+                "duration": {"hh": "1", "mm": "30"},
+                "title" : "Lunch",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          }
+        ],
+        "endTime": "11:00"
+      },
+      {
         "startTime": "14:00",
         "sessions": [
           {
-            "gridArea": "3 / 1 / 3 / 1",
+            "gridArea": "4 / 1 / 4 / 1",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -129,7 +146,7 @@
             ]
           },
           {
-            "gridArea": "3 / 2 / 3 / 2",
+            "gridArea": "4 / 2 / 4 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -163,7 +180,7 @@
             ]
           },
           {
-            "gridArea": "3 / 3 / 3 / 3",
+            "gridArea": "4 / 3 / 4 / 3",
             "items": [
               {
                 "complexity": "Intermediate",
