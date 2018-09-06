@@ -17,7 +17,7 @@
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["Announcement"],
-                "title" : "Barcamp/Drupalcamp announcement, pre-camp training(3 tracks).",
+                "title" : "Barcamp/DrupalCampChina announcement, pre-camp training.",
                 "track": {"title": "Expo hail"}
               }
             ]
@@ -36,7 +36,7 @@
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Drupal"],
-                "title" : "Hello Drupal",
+                "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
               },
               {
