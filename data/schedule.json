@@ -101,6 +101,7 @@
                 "complexity": "Beginner",
                 "duration": {"hh": "1", "mm": "30"},
                 "title" : "Lunch",
+                "icon" : "lunch",
                 "track": {"title": "Expo hail"}
               }
             ]
