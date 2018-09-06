@@ -13,7 +13,7 @@
             "gridArea": "1 / 1 / 1 / 4",
             "items": [
               {
-                "complexity": "Start",
+                "complexity": "Beginner",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["Announcement"],
@@ -23,7 +23,7 @@
             ]
           }
         ],
-        "endTime": "11:11"
+        "endTime": "11:00"
       },
       {
         "startTime": "11:00",
@@ -38,27 +38,6 @@
                 "tags": ["Drupal"],
                 "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
-              },
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Drupal"],
-                "title" : "Hello Drupal"
-              },
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Drupal"],
-                "title" : "Hello Drupal"
-              },
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Drupal"],
-                "title" : "Hello Drupal"
               }
             ]
           },
@@ -67,32 +46,11 @@
             "items": [
               {
                 "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
+                "duration": {"hh": "1", "mm": "00"},
                 "language": "English",
                 "tags": ["Drupal"],
                 "title" : "Hello Drupal",
                 "track": {"title": "Expo hail"}
-              },
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Drupal"],
-                "title" : "Hello Drupal"
-              },
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Drupal"],
-                "title" : "Hello Drupal"
-              },
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Drupal"],
-                "title" : "Hello Drupal"
               }
             ]
           },
