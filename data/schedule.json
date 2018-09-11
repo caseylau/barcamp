@@ -257,6 +257,23 @@
           }
         ],
         "endTime": "16:59"
+      },
+      {
+        "startTime": "17:00",
+        "sessions": [
+          {
+            "gridArea": "7 / 1 / 7 / 4",
+            "items": [
+              {
+                "duration": {"hh": "1", "mm": "30"},
+                "title" : "Afterparty",
+                "icon" : "party",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          }
+        ],
+        "endTime": "24:00"
       }
     ],
     "tracks": [
