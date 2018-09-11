@@ -3,7 +3,7 @@
     "date": "2018-1-10",
     "dateReadable": "November 10",
     "tags": [
-      "Drupal","Barcamp","WebStarter"
+      "Drupal","Barcamp","WebBeginner"
     ],
     "timeslots": [
       {
@@ -35,7 +35,8 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["Drupal"],
+                "tags": ["Barcamp"],
+                "mainTag": "Barcamp",
                 "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
               }
@@ -61,7 +62,7 @@
                 "complexity": "start",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["web-beginner"],
+                "tags": ["WebBeginner"],
                 "title" : "Hello web"
               }
             ]
@@ -96,8 +97,8 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
-                "tags": ["Drupal"],
-                "title" : "Hello barcamp",
+                "tags": ["Barcamp"],
+                "title" : "Hello Barcamp",
                 "track": {"title": "Expo hail"}
               },
               {
