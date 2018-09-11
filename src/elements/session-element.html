@@ -230,10 +230,11 @@
       }
 
       _getTagColor(value) {
-        if (ShadyCSS) {
-          return ShadyCSS.getComputedStyleValue(this, `--${this.generateClassName(value)}`);
-        }
-        return getComputedStyle(this, `--${this.generateClassName(value)}`);
+        // if (ShadyCSS) {
+        //   return ShadyCSS.getComputedStyleValue(this, `--${this.generateClassName(value)}`);
+        // }
+        // return getComputedStyle(this, `--${this.generateClassName(value)}`);
+        return this.session['tagsColor'];
       }
 
       _isFeatured(featuredSessions, sessionId) {

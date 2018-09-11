@@ -17,6 +17,7 @@
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["Announcement"],
+                "tagsColor": "#FF40FF",
                 "title" : "Registration, Barcamp/DrupalCampChina announcement, pre-camp training.",
                 "track": {"title": "Expo hail"}
               }
@@ -36,7 +37,7 @@
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["Barcamp"],
-                "mainTag": "Barcamp",
+                "tagsColor": "#FF9300",
                 "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
               }
@@ -50,6 +51,7 @@
                 "duration": {"hh": "1", "mm": "00"},
                 "language": "English",
                 "tags": ["Drupal"],
+                "tagsColor": "#2196f3",
                 "title" : "Hello Drupal",
                 "track": {"title": "Expo hail"}
               }
@@ -63,6 +65,7 @@
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["WebBeginner"],
+                "tagsColor": "#05B700",
                 "title" : "Hello web"
               }
             ]
@@ -98,6 +101,7 @@
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
                 "title" : "Hello Barcamp",
                 "track": {"title": "Expo hail"}
               },
@@ -106,6 +110,7 @@
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
                 "title" : "Hello barcamp"
               }
             ]
@@ -118,6 +123,7 @@
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["drupal"],
+                "tagsColor": "#2196f3",
                 "title" : "Hello Drupal",
                 "track": {"title": "Expo hail"}
               }
@@ -131,6 +137,7 @@
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["web-beginner"],
+                "tagsColor": "#05B700",
                 "title" : "Hello web",
                 "track": {"title": "Expo hail"}
               }
@@ -138,6 +145,118 @@
           }
         ],
         "endTime": "14:59"
+      },
+      {
+        "startTime": "15:00",
+        "sessions": [
+          {
+            "gridArea": "5 / 1 / 5 / 1",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Hello Barcamp",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Hello barcamp"
+              }
+            ]
+          },
+          {
+            "gridArea": "5 / 2 / 5 / 2",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "1", "mm": "0"},
+                "language": "English",
+                "tags": ["drupal"],
+                "tagsColor": "#2196f3",
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          },
+          {
+            "gridArea": "5 / 3 / 5 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "1", "mm": "0"},
+                "language": "English",
+                "tags": ["web-beginner"],
+                "tagsColor": "#05B700",
+                "title" : "Hello web",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          }
+        ],
+        "endTime": "15:59"
+      },
+      {
+        "startTime": "16:00",
+        "sessions": [
+          {
+            "gridArea": "6 / 1 / 6 / 1",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Hello Barcamp",
+                "track": {"title": "Expo hail"}
+              },
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Hello barcamp"
+              }
+            ]
+          },
+          {
+            "gridArea": "6 / 2 / 6 / 2",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "1", "mm": "0"},
+                "language": "English",
+                "tags": ["drupal"],
+                "tagsColor": "#2196f3",
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          },
+          {
+            "gridArea": "6 / 3 / 6 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "1", "mm": "0"},
+                "language": "English",
+                "tags": ["web-beginner"],
+                "tagsColor": "#05B700",
+                "title" : "Hello web",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          }
+        ],
+        "endTime": "16:59"
       }
     ],
     "tracks": [
