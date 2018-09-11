@@ -104,19 +104,11 @@
                 "tagsColor": "#FF9300",
                 "title" : "Hello Barcamp",
                 "track": {"title": "Expo hail"}
-              },
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Hello barcamp"
               }
             ]
           },
           {
-            "gridArea": "4 / 2 / 4 / 2",
+            "gridArea": "4 / 2 / 6 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -130,7 +122,7 @@
             ]
           },
           {
-            "gridArea": "4 / 3 / 4 / 3",
+            "gridArea": "4 / 3 / 6 / 3",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -147,7 +139,7 @@
         "endTime": "14:59"
       },
       {
-        "startTime": "15:00",
+        "startTime": "14:30",
         "sessions": [
           {
             "gridArea": "5 / 1 / 5 / 1",
@@ -160,50 +152,14 @@
                 "tagsColor": "#FF9300",
                 "title" : "Hello Barcamp",
                 "track": {"title": "Expo hail"}
-              },
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Hello barcamp"
-              }
-            ]
-          },
-          {
-            "gridArea": "5 / 2 / 5 / 2",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "1", "mm": "0"},
-                "language": "English",
-                "tags": ["drupal"],
-                "tagsColor": "#2196f3",
-                "title" : "Hello Drupal",
-                "track": {"title": "Expo hail"}
-              }
-            ]
-          },
-          {
-            "gridArea": "5 / 3 / 5 / 3",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "1", "mm": "0"},
-                "language": "English",
-                "tags": ["web-beginner"],
-                "tagsColor": "#05B700",
-                "title" : "Hello web",
-                "track": {"title": "Expo hail"}
               }
             ]
           }
         ],
-        "endTime": "15:59"
+        "endTime": "14:59"
       },
       {
-        "startTime": "16:00",
+        "startTime": "15:00",
         "sessions": [
           {
             "gridArea": "6 / 1 / 6 / 1",
@@ -216,19 +172,11 @@
                 "tagsColor": "#FF9300",
                 "title" : "Hello Barcamp",
                 "track": {"title": "Expo hail"}
-              },
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Hello barcamp"
               }
             ]
           },
           {
-            "gridArea": "6 / 2 / 6 / 2",
+            "gridArea": "6 / 2 / 8 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -242,7 +190,73 @@
             ]
           },
           {
-            "gridArea": "6 / 3 / 6 / 3",
+            "gridArea": "6 / 3 / 8 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "1", "mm": "0"},
+                "language": "English",
+                "tags": ["web-beginner"],
+                "tagsColor": "#05B700",
+                "title" : "Hello web",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "15:30",
+        "sessions": [
+          {
+            "gridArea": "7 / 1 / 7 / 1",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Hello Barcamp",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "16:00",
+        "sessions": [
+          {
+            "gridArea": "8 / 1 / 8 / 1",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Hello Barcamp",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          },
+          {
+            "gridArea": "8 / 2 / 10 / 2",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "1", "mm": "0"},
+                "language": "English",
+                "tags": ["drupal"],
+                "tagsColor": "#2196f3",
+                "title" : "Hello Drupal",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          },
+          {
+            "gridArea": "8 / 3 / 10 / 3",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -256,16 +270,35 @@
             ]
           }
         ],
-        "endTime": "16:59"
+        "endTime": "14:59"
+      },
+      {
+        "startTime": "16:30",
+        "sessions": [
+          {
+            "gridArea": "9 / 1 / 9 / 1",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Hello Barcamp",
+                "track": {"title": "Expo hail"}
+              }
+            ]
+          }
+        ]
       },
       {
         "startTime": "17:00",
         "sessions": [
           {
-            "gridArea": "7 / 1 / 7 / 4",
+            "gridArea": "10 / 1 / 10 / 4",
             "items": [
               {
-                "duration": {"hh": "1", "mm": "30"},
+                "duration": {"hh": "5", "mm": "0"},
                 "title" : "Afterparty",
                 "icon" : "party",
                 "track": {"title": "Expo hail"}
