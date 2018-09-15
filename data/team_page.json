@@ -63,6 +63,86 @@
     "photoUrl" : "/images/team/noah.jpeg",
     "socials" : [],
     "title" : "Product Manager @ WeddingWire"
+  }, {
+    "name" : "Mark Englehart Evans",
+    "photo" : "/images/team/mark.jpeg",
+    "photoUrl" : "/images/team/mark.jpeg",
+    "socials" : [{
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/markenglehartevans/",
+      "name" : "markenglehartevans"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/mark_e_evans/",
+      "name" : "mark_e_evans"
+    }],
+    "title" : "Senior Vice President @ DBS Bank"
+  }, {
+    "name" : "David",
+    "photo" : "/images/team/david.jpeg",
+    "photoUrl" : "/images/team/david.jpeg",
+    "socials" : [{
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/ydavidding/",
+      "name" : "ydavidding"
+    }],
+    "title" : "Regional FinTech, Ecosystems & Innovation, DBS Innovation Group"
+  }, {
+    "name" : "Stephanie Rymer",
+    "photo" : "/images/team/stephanie.jpeg",
+    "photoUrl" : "/images/team/stephanie.jpeg",
+    "socials" : [{
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/stephrymer/",
+      "name" : "stephrymer"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/stephrymer/",
+      "name" : "stephrymer"
+    }],
+    "title" : "Lead Experience Designer at Moment + Verizon"
+  }, {
+    "name" : "Buzz Archer",
+    "photo" : "/images/team/buzz.jpeg",
+    "photoUrl" : "/images/team/buzz.jpeg",
+    "socials" : [{
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/virgilarcher/",
+      "name" : "virgilarcher"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/VirgilArcher/",
+      "name" : "VirgilArcher"
+    }],
+    "title" : "Senior Vice President @ DBS Bank"
+  }, {
+    "name" : "William Hund",
+    "photo" : "/images/team/william.jpeg",
+    "photoUrl" : "/images/team/william.jpeg",
+    "socials" : [{
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/williamhund/",
+      "name" : "williamhund"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/williamhund/",
+      "name" : "williamhund"
+    }],
+    "title" : "Co-founder & CPO @ Cialfo"
+  }, {
+    "name" : "Ashley Shen",
+    "photo" : "/images/team/ashley.jpg",
+    "photoUrl" : "/images/team/ashley.jpg",
+    "socials" : [{
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/ashleycshen/",
+      "name" : "ashleycshen"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/ashleyshen/",
+      "name" : "ashleyshen"
+    }],
+    "title" : "UX/UI Designer at Funding Circle US"
   } ],
   "title" : "Techyizu Alumni"
 }
