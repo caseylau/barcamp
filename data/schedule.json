@@ -52,7 +52,7 @@
                 "language": "English",
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
-                "title" : "Hello Drupal",
+                "title" : "DrupalCampChina 2018 Reserved Session",
                 "track": {"title": "Expo hail"}
               }
             ]
@@ -64,7 +64,7 @@
                 "complexity": "start",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["WebBeginner"],
+                "tags": ["Web Beginner"],
                 "tagsColor": "#05B700",
                 "title" : "Hello web"
               }
@@ -102,7 +102,7 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Hello Barcamp",
+                "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
               }
             ]
@@ -114,7 +114,7 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["drupal"],
+                "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
                 "title" : "Hello Drupal",
                 "track": {"title": "Expo hail"}
@@ -128,7 +128,7 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["web-beginner"],
+                "tags": ["Web Beginner"],
                 "tagsColor": "#05B700",
                 "title" : "Hello web",
                 "track": {"title": "Expo hail"}
@@ -182,7 +182,7 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["drupal"],
+                "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
                 "title" : "Hello Drupal",
                 "track": {"title": "Expo hail"}
@@ -196,7 +196,7 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["web-beginner"],
+                "tags": ["Web Beginner"],
                 "tagsColor": "#05B700",
                 "title" : "Hello web",
                 "track": {"title": "Expo hail"}
@@ -217,7 +217,7 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Hello Barcamp",
+                "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
               }
             ]
@@ -236,7 +236,7 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Hello Barcamp",
+                "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
               }
             ]
@@ -248,7 +248,7 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["drupal"],
+                "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
                 "title" : "Hello Drupal",
                 "track": {"title": "Expo hail"}
@@ -262,7 +262,7 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["web-beginner"],
+                "tags": ["Web Beginner"],
                 "tagsColor": "#05B700",
                 "title" : "Hello web",
                 "track": {"title": "Expo hail"}
@@ -284,7 +284,7 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Hello Barcamp",
+                "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
               }
             ]
