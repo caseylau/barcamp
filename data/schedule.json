@@ -190,7 +190,7 @@
             "gridArea": "7 / 2 / 9 / 2",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Advanced",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "Chinese",
                 "tags": ["Drupal"],
