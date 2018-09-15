@@ -161,7 +161,7 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Hello Barcamp",
+                "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
               }
             ]
@@ -181,7 +181,7 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Hello Barcamp",
+                "title" : "Please propose your idea!",
                 "track": {"title": "Expo hail"}
               }
             ]
@@ -192,11 +192,20 @@
               {
                 "complexity": "Intermediate",
                 "duration": {"hh": "1", "mm": "0"},
-                "language": "English",
+                "language": "Chinese",
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
-                "title" : "Hello Drupal",
-                "track": {"title": "Expo hail"}
+                "title" : "Drupal headless and decoupled",
+                "track": {"title": "Expo hail"},
+                "speakers": [{
+                  "photoUrl": "",
+                  "name": "Allen Zheng",
+                  "company": "CI&T"
+                },{
+                  "photoUrl": "",
+                  "name": "Weynham Zheng",
+                  "company": "CI&T"
+                }]
               }
             ]
           },
