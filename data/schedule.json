@@ -3,7 +3,7 @@
     "date": "2018-1-10",
     "dateReadable": "November 10",
     "tags": [
-      "Drupal","Barcamp","WebBeginner"
+      "Drupal","Barcamp","Web Beginner"
     ],
     "timeslots": [
       {
@@ -139,10 +139,9 @@
                 "title" : "Intro to Open Web Experience Management with Drupal",
                 "track": {"title": "Expo hail"},
                 "speakers": [{
-                  "photoUrl": "/images/speakers/skyred.jpg",
-                  "name": "Skyred Wang",
-                  "company": "Insready",
-                  "country": "China"
+                  "photoUrl": "/images/team/skyred.jpg",
+                  "name": "Jingsheng Wang",
+                  "company": "INsready"
                 }]
               }
             ]
