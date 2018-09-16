@@ -218,6 +218,9 @@ gulp.task('serve', gulp.series(compileTemplate, () => {
   browserSync.init({
     logPrefix: 'Hoverboard 2',
     notify: false,
+    ghostMode: {
+      scroll: false,
+    },
     server: {
       baseDir: [config.tempDirectory, './'],
       middleware: [history()],
