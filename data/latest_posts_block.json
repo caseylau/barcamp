@@ -6,7 +6,8 @@
     "image" : "/images/posts/latest-posta.JPG",
     "published" : "2018-08-28",
     "source" : "/data/posts/2017-02-12-c4p.md",
-    "title" : "We're looking for speakers"
+    "title" : "We're looking for speakers",
+    "id": "1"
   },
   {
     "backgroundColor" : "#5a7785",
@@ -15,6 +16,7 @@
     "image" : "/images/posts/thankyou.png",
     "published" : "2018-08-28",
     "source" : "/data/posts/2016-09-29-thank-you.md",
-    "title" : "Thank you all for your support"
+    "title" : "Thank you all for your support",
+    "id": "2"
   }
 ]
