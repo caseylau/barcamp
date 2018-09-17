@@ -1,14 +1,34 @@
 [
   {
+    "bio": "Founder of Insready.",
+    "company": "Insready",
+    "companyLogo": "/images/speakers/company/insready.png",
+    "companyLogoUrl": "/images/speakers/company/insready.png",
+    "country": "Founder of Insready. ShangHai, China",
+    "featured": true,
+    "name": "JingSheng Wang",
+    "photo": "/images/team/skyred.jpg",
+    "photoUrl": "/images/team/skyred.jpg",
+    "shortBio": "Founder of Insready",
+    "socials": [
+      {
+        "icon": "gplus",
+        "link": "plus.google.com/+AdrianKajda",
+        "name": "Google+"
+      }
+    ],
+    "title": "Founder @Insready"
+  },
+  {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
     "company": "Sygic",
-    "companyLogo": "../../images/people/company/acquia.png",
-    "companyLogoUrl": "../../images/people/company/acquia.png",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "companyLogo": "/images/logos/cit.png",
+    "companyLogoUrl": "/images/logos/cit.png",
+    "country": "NingBo China",
     "featured": true,
-    "name": "Skyred Wang",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
+    "name": "Weynham Zheng",
+    "photo": "/images/speakers/weynham.jpeg",
+    "photoUrl": "/images/speakers/weynham.jpeg",
     "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
     "socials": [
       {
@@ -22,28 +42,8 @@
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
     "company": "Sygic",
-    "companyLogo": "../../images/people/company/facebook.jpeg",
-    "companyLogoUrl": "../../images/people/company/facebook.jpeg",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
-    "featured": true,
-    "name": "Obama",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
-    "title": "Product Manager/Developer"
-  },
-  {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company": "Sygic",
-    "companyLogo": "../../images/people/company/google.png",
-    "companyLogoUrl": "../../images/people/company/google.png",
+    "companyLogo": "/images/speakers/company/google.png",
+    "companyLogoUrl": "/images/speakers/company/google.png",
     "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
     "featured": true,
     "name": "Adrian Kajda",
@@ -62,8 +62,8 @@
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
     "company": "Sygic",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
+    "companyLogo": "/images/speakers/company/microsoft.png",
+    "companyLogoUrl": "/images/speakers/company/microsoft.png",
     "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
     "featured": true,
     "name": "Adrian Kajda",
