@@ -126,7 +126,8 @@
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Shanghai NewYork University 1555 Century Avenue, Pudong, Shanghai, China 200122 上海纽约大学-浦东新区世纪大道1555号"
+    "description": "Shanghai NewYork University 1555 Century Avenue, Pudong, Shanghai, China 200122",
+    "description_cn": "上海纽约大学-浦东新区世纪大道1555号"
   },
   "mediaQueries": {
     "xs": {
