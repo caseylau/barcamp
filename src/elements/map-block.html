@@ -69,14 +69,15 @@
 
     <template is="dom-if" if="[[viewport.isTabletPlus]]">
       <div class="map-container">
-        <good-map
-          id="map"
-          api-key="{$ googleMapApiKey $}"
-          latitude="{$ location.mapCenter.latitude $}"
-          longitude="{$ location.mapCenter.longitude $}"
-          zoom="{$ location.pointer.zoom $}"
-          map-options="[[options]]"
-        ></good-map>
+        <!--<good-map-->
+          <!--id="map"-->
+          <!--api-key="{$ googleMapApiKey $}"-->
+          <!--latitude="{$ location.mapCenter.latitude $}"-->
+          <!--longitude="{$ location.mapCenter.longitude $}"-->
+          <!--zoom="{$ location.pointer.zoom $}"-->
+          <!--map-options="[[options]]"-->
+        <!--&gt;</good-map>-->
+        <img src="/images/baidumap.jpg" alt="">
       </div>
     </template>
 
