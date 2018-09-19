@@ -198,7 +198,7 @@
                 "title" : "Drupal headless and decoupled",
                 "track": {"title": "Expo hail"},
                 "speakers": [{
-                  "photoUrl": "",
+                  "photoUrl": "/images/speakers/allenzheng.jpg",
                   "name": "Allen Zheng",
                   "company": "CI&T"
                 },{
