@@ -85,8 +85,12 @@
               <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
             </paper-button>
           </a> -->
-
-          <p>{$ aboutBlock.callToAction.howItWas.description $}</p>
+          <p>Here's how it works:</p>
+          <p>
+          <div>{$ aboutBlock.callToAction.howItWas.description_section_a $}</div>
+          <div>{$ aboutBlock.callToAction.howItWas.description_section_b $}</div>
+          <div>{$ aboutBlock.callToAction.howItWas.description_section_c $}</div>
+          </p>
           <!-- <paper-button
             class="animated icon-right"
             on-tap="_playVideo"
