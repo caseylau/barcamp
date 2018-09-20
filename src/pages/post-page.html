@@ -177,6 +177,7 @@
       ready() {
         super.ready();
         let link;
+        this.post = this.postsList[this.postData.id-1];
         link = this.postsList[this.postData.id-1].source;
         this.postContent = this._getMarkdownContent(link);
       }
