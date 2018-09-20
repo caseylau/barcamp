@@ -207,7 +207,7 @@
       _computeData() {
         var response = '';
         this._getResource({
-          url: '../../data/latest_posts_block.json',
+          url: '/data/posts/latest_posts_block.json',
           onLoad(e) {
             response = JSON.parse(e.target.responseText);
           },

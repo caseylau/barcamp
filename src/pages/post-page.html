@@ -99,7 +99,8 @@
     </hero-block>
 
     <div class="container-narrow">
-      <marked-element class="post" markdown="[[post.content]]">
+      <marked-element class="post" markdown="[[postContent]]">
+      <!--<marked-element class="post" markdown="/data/posts/2017-02-12-c4p.md">-->
         <div slot="markdown-html"></div>
       </marked-element>
       <div class="date">{$ blog.published $}: [[getDate(post.published)]]</div>
@@ -124,12 +125,14 @@
 
       static get properties() {
         return {
+          postData: Object,
           active: Boolean,
           route: Object,
           post: Object,
+          postContent: Object,
           postsList: {
             type: Array,
-            statePath: 'blog.list',
+            computed: '_computeDataPostList()',
           },
           postsMap: {
             type: Object,
@@ -149,13 +152,44 @@
           },
         };
       }
-
+      _computeDataPostList() {
+        var response = '';
+        this._getResource({
+          url: '/data/posts/latest_posts_block.json',
+          onLoad(e) {
+            response = JSON.parse(e.target.responseText);
+          },
+        });
+        return response;
+      }
+      _getResource(rq) {
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', rq.onLoad.bind(this));
+        xhr.open('GET', rq.url, false);
+        xhr.send();
+      }
       static get observers() {
         return [
           '_postDataObserver(postData.id, postsList)',
         ];
       }
 
+      ready() {
+        super.ready();
+        let link;
+        link = this.postsList[this.postData.id-1].source;
+        this.postContent = this._getMarkdownContent(link);
+      }
+      _getMarkdownContent(link) {
+        var response = '';
+        this._getResource({
+          url: link,
+          onLoad(e) {
+            response = e.target.responseText;
+          },
+        });
+        return response;
+      }
       connectedCallback() {
         super.connectedCallback();
         if (!this.postsFetching && (!this.postsList || !this.postsList.length)) {

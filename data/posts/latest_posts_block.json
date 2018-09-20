@@ -5,17 +5,17 @@
     "content" : "barcamp/drupalcamp was announced, for the past years in a row, the conference will bring together 900 developers, managers and entrepreneurs together.",
     "image" : "/images/posts/latest-posta.JPG",
     "published" : "2018-08-28",
-    "source" : "/data/posts/2017-02-12-c4p.md",
+    "source" : "/data/posts/looking-for-speakers.md",
     "title" : "We're looking for speakers",
     "id": "1"
   },
   {
     "backgroundColor" : "#5a7785",
-    "brief" : "Our team wants to thank one more time our partners, who made GDG DevFest Ukraine 2016 possible...",
+    "brief" : "Our team wants to thank one more time our partners...",
     "content" : "We want to thank one more time our partners, who made drupalcamp/barcamp possible! THANK YOU for being creative and motivating our participants for new challenges",
     "image" : "/images/posts/thankyou.png",
     "published" : "2018-08-28",
-    "source" : "/data/posts/2016-09-29-thank-you.md",
+    "source" : "/data/posts/thank-you.md",
     "title" : "Thank you all for your support",
     "id": "2"
   }
