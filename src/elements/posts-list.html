@@ -63,7 +63,7 @@
     </style>
 
     <template is="dom-repeat" items="[[posts]]" as="post">
-      <a href$="/blog/posts/[[post.id]]/" class="post" layout horizontal>
+      <a href="/blog/posts/[[post.id]]" class="post" target="_blank" layout horizontal>
         <plastic-image
           class="image"
           srcset="[[post.image]]"
