@@ -84,7 +84,8 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "What is Barcamp? Barcamp is unique kind of technology event, because the goal is to give everyone -- including YOU -- an opportunity to share ideas and actively participate.",
+        "title": "What is Barcamp?",
+        "description": "Barcamp is unique kind of technology event, because the goal is to give everyone -- including YOU -- an opportunity to share ideas and actively participate.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
