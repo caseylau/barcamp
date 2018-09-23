@@ -49,7 +49,7 @@
               {
                 "complexity": "Beginner",
                 "duration": {"hh": "1", "mm": "00"},
-                "language": "English",
+                "language": "Chinese",
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
                 "title" : "Journey to 15000 stars: The story of TiDB",
