@@ -1,23 +1,23 @@
 [
   {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project",
-    "company": "Insready",
-    "companyLogo": "/images/speakers/company/acquia.png",
-    "companyLogoUrl": "/images/speakers/company/acquia.png",
-    "country": "Creator of Fuelio app. Fuelio was his hooby project",
+    "bio": "Grand architect of TiDB/TiKV",
+    "company": "PingCAP",
+    "companyLogo": "/images/speakers/company/pingcap.png",
+    "companyLogoUrl": "/images/speakers/company/pingcap.png",
+    "country": "China",
     "featured": true,
-    "name": "Speaker",
-    "photo": "/images/speakers/speaker.jpeg",
-    "photoUrl": "/images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project",
+    "name": "Ed Huang",
+    "photo": "/images/speakers/edhuang.jpeg",
+    "photoUrl": "/images/speakers/edhuang.jpeg",
+    "shortBio": "Grand architect of TiDB/TiKV",
     "socials": [
       {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
+        "icon": "twitter",
+        "link": "https://twitter.com/c4pt0r",
+        "name": "Twitter"
       }
     ],
-    "title": "Founder @Insready"
+    "title": "Co-founder & CTO of PingCAP"
   },
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
