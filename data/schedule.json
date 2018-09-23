@@ -47,13 +47,18 @@
             "gridArea": "2 / 2 / 4 / 2",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Beginner",
                 "duration": {"hh": "1", "mm": "00"},
                 "language": "English",
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
-                "title" : "DrupalCampChina 2018 Reserved Session",
-                "track": {"title": "Expo hail"}
+                "title" : "Journey to 15000 stars: The story of TiDB",
+                "track": {"title": "Expo hail"},
+                "speakers": [{
+                  "photoUrl": "/images/speakers/edhuang.jpeg",
+                  "name": "Ed Huang",
+                  "company": "PingCAP"
+                }]
               }
             ]
           },
