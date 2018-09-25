@@ -69,7 +69,7 @@
           if (image) {
             updatedImage = image.startsWith('http') ? image : `{$ url $}${image}`;
           }
-          // document.title = updatedTitle;
+          document.title = updatedTitle;
           document.querySelector('meta[name="description"]').setAttribute('content', updatedDescription);
           // G+
           document.querySelector('meta[itemprop="name"]').setAttribute('content', updatedTitle);
