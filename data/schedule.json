@@ -10,7 +10,7 @@
         "startTime": "10:00",
         "sessions": [
           {
-            "gridArea": "1 / 1 / 1 / 4",
+            "gridArea": "1 / 1 / 1 / 6",
             "items": [
               {
                 "complexity": "Beginner",
@@ -18,8 +18,7 @@
                 "language": "English",
                 "tags": ["Announcement"],
                 "tagsColor": "#FF40FF",
-                "title" : "Registration, Barcamp/DrupalCampChina announcement, pre-camp training.",
-                "track": {"title": "Expo hail"}
+                "title" : "Registration, Barcamp/DrupalCampChina announcement, pre-camp training."
               }
             ]
           }
@@ -30,7 +29,7 @@
         "startTime": "11:00",
         "sessions": [
           {
-            "gridArea": "2 / 1 / 2 / 1",
+            "gridArea": "2 / 1 / 2 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -38,13 +37,38 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Expo hail"}
+                "title" : "Please propose your idea!"
               }
             ]
           },
           {
-            "gridArea": "2 / 2 / 4 / 2",
+            "gridArea": "2 / 2 / 2 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "2 / 3 / 2 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "2 / 4 / 4 / 5",
             "items": [
               {
                 "complexity": "Beginner",
@@ -53,7 +77,6 @@
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
                 "title" : "Journey to 15000 stars: The story of TiDB",
-                "track": {"title": "Expo hail"},
                 "speakers": [{
                   "photoUrl": "/images/speakers/edhuang.jpeg",
                   "name": "Ed Huang",
@@ -63,7 +86,7 @@
             ]
           },
           {
-            "gridArea": "2 / 3 / 4 / 3",
+            "gridArea": "2 / 5 / 4 / 6",
             "items": [
               {
                 "complexity": "start",
@@ -82,7 +105,7 @@
         "startTime": "11:30",
         "sessions": [
           {
-            "gridArea": "3 / 1 / 3 / 1",
+            "gridArea": "3 / 1 / 3 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -90,8 +113,33 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Expo hail"}
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "3 / 2 / 3 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "3 / 3 / 3 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
               }
             ]
           }
@@ -102,13 +150,12 @@
         "startTime": "12:00",
         "sessions": [
           {
-            "gridArea": "4 / 1 / 4 / 4",
+            "gridArea": "4 / 1 / 4 / 6",
             "items": [
               {
                 "duration": {"hh": "1", "mm": "30"},
                 "title" : "Lunch",
-                "icon" : "lunch",
-                "track": {"title": "Expo hail"}
+                "icon" : "lunch"
               }
             ]
           }
@@ -119,7 +166,7 @@
         "startTime": "14:00",
         "sessions": [
           {
-            "gridArea": "5 / 1 / 5 / 1",
+            "gridArea": "5 / 1 / 5 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -128,12 +175,40 @@
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
                 "title" : "Please propose your idea!",
-                "track": {"title": "Expo hail"}
+                "track": {"title": "Barcamp"}
               }
             ]
           },
           {
-            "gridArea": "5 / 2 / 7 / 4",
+            "gridArea": "5 / 2 / 5 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!",
+                "track": {"title": "Barcamp"}
+              }
+            ]
+          },
+          {
+            "gridArea": "5 / 3 / 5 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!",
+                "track": {"title": "Barcamp"}
+              }
+            ]
+          },
+          {
+            "gridArea": "5 / 4 / 7 / 6",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -158,7 +233,7 @@
         "startTime": "14:30",
         "sessions": [
           {
-            "gridArea": "6 / 1 / 6 / 1",
+            "gridArea": "6 / 1 / 6 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -166,8 +241,33 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Expo hail"}
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "6 / 2 / 6 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "6 / 3 / 6 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
               }
             ]
           }
@@ -178,7 +278,7 @@
         "startTime": "15:00",
         "sessions": [
           {
-            "gridArea": "7 / 1 / 7 / 1",
+            "gridArea": "7 / 1 / 7 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -186,13 +286,38 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Expo hail"}
+                "title" : "Please propose your idea!"
               }
             ]
           },
           {
-            "gridArea": "7 / 2 / 9 / 2",
+            "gridArea": "7 / 2 / 7 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "7 / 3 / 7 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "7 / 4 / 9 / 5",
             "items": [
               {
                 "complexity": "Advanced",
@@ -201,7 +326,6 @@
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
                 "title" : "Drupal headless and decoupled",
-                "track": {"title": "Expo hail"},
                 "speakers": [{
                   "photoUrl": "/images/speakers/allenzheng.jpg",
                   "name": "Allen Zheng",
@@ -215,7 +339,7 @@
             ]
           },
           {
-            "gridArea": "7 / 3 / 9 / 3",
+            "gridArea": "7 / 5 / 9 / 6",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -223,8 +347,7 @@
                 "language": "English",
                 "tags": ["Web Beginner"],
                 "tagsColor": "#05B700",
-                "title" : "Web Beginner Track Reserved Session",
-                "track": {"title": "Expo hail"}
+                "title" : "Web Beginner Track Reserved Session"
               }
             ]
           }
@@ -234,7 +357,7 @@
         "startTime": "15:30",
         "sessions": [
           {
-            "gridArea": "8 / 1 / 8 / 1",
+            "gridArea": "8 / 1 / 8 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -242,8 +365,33 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Expo hail"}
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "8 / 2 / 8 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "8 / 3 / 8 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
               }
             ]
           }
@@ -253,7 +401,7 @@
         "startTime": "16:00",
         "sessions": [
           {
-            "gridArea": "9 / 1 / 9 / 1",
+            "gridArea": "9 / 1 / 9 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -261,13 +409,38 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Expo hail"}
+                "title" : "Please propose your idea!"
               }
             ]
           },
           {
-            "gridArea": "9 / 2 / 11 / 2",
+            "gridArea": "9 / 2 / 9 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "9 / 3 / 9 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "9 / 4 / 11 / 5",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -275,13 +448,12 @@
                 "language": "English",
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
-                "title" : "DrupalCampChina 2018 Reserved Session",
-                "track": {"title": "Expo hail"}
+                "title" : "DrupalCampChina 2018 Reserved Session"
               }
             ]
           },
           {
-            "gridArea": "9 / 3 / 11 / 3",
+            "gridArea": "9 / 5 / 11 / 6",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -289,8 +461,7 @@
                 "language": "English",
                 "tags": ["Web Beginner"],
                 "tagsColor": "#05B700",
-                "title" : "Web Beginner Track Reserved Session",
-                "track": {"title": "Expo hail"}
+                "title" : "Web Beginner Track Reserved Session"
               }
             ]
           }
@@ -301,7 +472,7 @@
         "startTime": "16:30",
         "sessions": [
           {
-            "gridArea": "10 / 1 / 10 / 1",
+            "gridArea": "10 / 1 / 10 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -309,8 +480,33 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Expo hail"}
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "10 / 2 / 10 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "10 / 3 / 10 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
               }
             ]
           }
@@ -320,7 +516,7 @@
         "startTime": "17:00",
         "sessions": [
           {
-            "gridArea": "11 / 1 / 11 / 1",
+            "gridArea": "11 / 1 / 11 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -328,13 +524,38 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Expo hail"}
+                "title" : "Please propose your idea!"
               }
             ]
           },
           {
-            "gridArea": "11 / 2 / 13 / 2",
+            "gridArea": "11 / 2 / 11 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "11 / 3 / 11 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
+            ]
+          },
+          {
+            "gridArea": "11 / 4 / 13 / 5",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -342,13 +563,12 @@
                 "language": "English",
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
-                "title" : "DrupalCampChina 2018 Reserved Session",
-                "track": {"title": "Expo hail"}
+                "title" : "DrupalCampChina 2018 Reserved Session"
               }
             ]
           },
           {
-            "gridArea": "11 / 3 / 13 / 3",
+            "gridArea": "11 / 5 / 13 / 6",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -356,8 +576,7 @@
                 "language": "English",
                 "tags": ["Web Beginner"],
                 "tagsColor": "#05B700",
-                "title" : "Web Beginner Track Reserved Session",
-                "track": {"title": "Expo hail"}
+                "title" : "Web Beginner Track Reserved Session"
               }
             ]
           }
@@ -368,7 +587,7 @@
         "startTime": "17:30",
         "sessions": [
           {
-            "gridArea": "12 / 1 / 12 / 1",
+            "gridArea": "12 / 1 / 12 / 4",
             "items": [
               {
                 "complexity": "Beginner",
@@ -397,7 +616,7 @@
         "startTime": "19:00",
         "sessions": [
           {
-            "gridArea": "13 / 1 / 13 / 4",
+            "gridArea": "13 / 1 / 13 / 6",
             "items": [
               {
                 "duration": {"hh": "5", "mm": "0"},
@@ -413,13 +632,19 @@
     ],
     "tracks": [
       {
-        "title": "Expo hall"
+        "title": "Barcamp"
       },
       {
-        "title": "Conference hall"
+        "title": "Barcamp"
       },
       {
-        "title": "Workshops hall"
+        "title": "Barcamp"
+      },
+      {
+        "title": "Drupal"
+      },
+      {
+        "title": "Web Beginner"
       }
     ]
   }
