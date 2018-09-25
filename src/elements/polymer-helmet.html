@@ -59,11 +59,6 @@
 
       _setMetaInfo(active, title, description, image, label1, data1, label2, data2) {
         if (active) {
-          let parser = new DOMParser;
-          let dom = parser.parseFromString(
-            '<!doctype html><body>' + this._defaultTitle,
-            'text/html');
-          this._defaultTitle = dom.body.textContent;
           const updatedTitle = title || this._defaultTitle;
           const updatedDescription = description || this._defaultDescription;
           const updatedLabel1 = label1 || this._defaultLabel1;
