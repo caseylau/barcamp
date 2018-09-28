@@ -1,103 +1,75 @@
 [
   {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company": "Sygic",
-    "companyLogo": "../../images/people/company/acquia.png",
-    "companyLogoUrl": "../../images/people/company/acquia.png",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "bio": "Grand architect of TiDB/TiKV",
+    "company": "PingCAP",
+    "companyLogo": "/images/speakers/company/pingcap.png",
+    "companyLogoUrl": "/images/speakers/company/pingcap.png",
+    "country": "TiDB/TiKV",
     "featured": true,
-    "name": "Skyred Wang",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+    "name": "Ed Huang",
+    "photo": "/images/speakers/edhuang.jpeg",
+    "photoUrl": "/images/speakers/edhuang.jpeg",
+    "shortBio": "Grand architect of TiDB/TiKV",
     "socials": [
       {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
+        "icon": "twitter",
+        "link": "https://twitter.com/c4pt0r",
+        "name": "Twitter"
       }
     ],
-    "title": "Product Manager/Developer"
+    "title": "Co-founder & CTO of PingCAP"
   },
   {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company": "Sygic",
-    "companyLogo": "../../images/people/company/facebook.jpeg",
-    "companyLogoUrl": "../../images/people/company/facebook.jpeg",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "bio": "",
+    "company": "迷上我",
+    "companyLogo": "/images/speakers/company/mishangwo.png",
+    "companyLogoUrl": "/images/speakers/company/mishangwo.png",
+    "country": "《成真恋爱学》",
     "featured": true,
-    "name": "Obama",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
-    "title": "Product Manager/Developer"
+    "name": "成真",
+    "photo": "/images/speakers/chenzhen.jpg",
+    "photoUrl": "/images/speakers/chenzhen.jpg",
+    "shortBio": "Producer & Host @ 《成真恋爱学》",
+    "title": "Producer & Host @ 《成真恋爱学》"
   },
   {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company": "Sygic",
-    "companyLogo": "../../images/people/company/google.png",
-    "companyLogoUrl": "../../images/people/company/google.png",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "bio": "",
+    "company": "Insready",
+    "companyLogo": "/images/speakers/company/insready.png",
+    "companyLogoUrl": "/images/speakers/company/insready.png",
+    "country": "Insready",
     "featured": true,
-    "name": "Adrian Kajda",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
-    "title": "Product Manager/Developer"
+    "name": "Jingsheng Wang",
+    "photo": "/images/team/skyred.jpg",
+    "photoUrl": "/images/team/skyred.jpg",
+    "shortBio": "Intro to Open Web Experience Management with Drupal",
+    "title": "Intro to Open Web Experience Management with Drupal"
   },
   {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company": "Sygic",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "bio": "",
+    "company": "CI&T",
+    "companyLogo": "/images/logos/cit.png",
+    "companyLogoUrl": "/images/logos/cit.png",
+    "country": "CI&T",
     "featured": true,
-    "name": "Adrian Kajda",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
-    "title": "Product Manager/Developer"
+    "name": "Allen Zheng",
+    "photo": "/images/speakers/allenzheng.jpg",
+    "photoUrl": "/images/speakers/allenzheng.jpg",
+    "shortBio": "Drupal headless and decoupled",
+    "title": "Drupal headless and decoupled"
   },
   {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company": "Sygic",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "bio": "",
+    "company": "CI&T",
+    "companyLogo": "/images/logos/cit.png",
+    "companyLogoUrl": "/images/logos/cit.png",
+    "country": "CI&T",
     "featured": true,
-    "name": "Adrian Kajda",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
-    "title": "Product Manager/Developer"
+    "name": "Weynham Zheng",
+    "photo": "/images/speakers/weynham.jpeg",
+    "photoUrl": "/images/speakers/weynham.jpeg",
+    "shortBio": "Drupal headless and decoupled",
+    "title": "Drupal headless and decoupled"
   },
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
