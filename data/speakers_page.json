@@ -40,6 +40,13 @@
     "photo": "/images/team/skyred.jpg",
     "photoUrl": "/images/team/skyred.jpg",
     "shortBio": "CEO @ INsReady",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/skyredwang",
+        "name": "Twitter"
+      }
+    ],
     "title": "Intro to Open Web Experience Management with Drupal"
   },
   {
@@ -60,13 +67,11 @@
     "company": "CI&T",
     "companyLogo": "/images/logos/cit.png",
     "companyLogoUrl": "/images/logos/cit.png",
-    "country": "CI&T - Developer Master",
     "featured": true,
     "name": "Weynham Zheng",
     "photo": "/images/speakers/weynham.jpeg",
     "photoUrl": "/images/speakers/weynham.jpeg",
-    "shortBio": "Drupal headless and decoupled",
-    "title": "Drupal headless and decoupled"
+    "shortBio": "Developer Master @ CI&T"
   },
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
