@@ -166,7 +166,7 @@
         "startTime": "14:00",
         "sessions": [
           {
-            "gridArea": "5 / 1 / 5 / 4",
+            "gridArea": "5 / 1 / 5 / 2",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -174,13 +174,36 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Secrets Most Men Will Never Know About Girls and Dating.",
-                "track": {"title": "Barcamp"},
-                "speakers": [{
-                  "photoUrl": "/images/speakers/chenzhen.jpg",
-                  "name": "成真",
-                  "company": "《成真恋爱学》"
-                }]
+                "title" : "Please propose your idea!",
+                "track": {"title": "Barcamp"}
+              }
+            ]
+          },
+          {
+            "gridArea": "5 / 2 / 5 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!",
+                "track": {"title": "Barcamp"}
+              }
+            ]
+          },
+          {
+            "gridArea": "5 / 3 / 5 / 4",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!",
+                "track": {"title": "Barcamp"}
               }
             ]
           },
