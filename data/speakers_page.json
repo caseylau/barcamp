@@ -23,7 +23,6 @@
     "company": "迷上我",
     "companyLogo": "/images/speakers/company/mishangwo.png",
     "companyLogoUrl": "/images/speakers/company/mishangwo.png",
-    "country": "《成真恋爱学》- Funder & CEO",
     "featured": true,
     "name": "成真",
     "photo": "/images/speakers/chenzhen.jpg",
@@ -33,15 +32,14 @@
   },
   {
     "bio": "",
-    "company": "Insready",
+    "company": "INsready",
     "companyLogo": "/images/speakers/company/insready.png",
     "companyLogoUrl": "/images/speakers/company/insready.png",
-    "country": "Insready - Funder & CEO",
     "featured": true,
     "name": "Jingsheng Wang",
     "photo": "/images/team/skyred.jpg",
     "photoUrl": "/images/team/skyred.jpg",
-    "shortBio": "Intro to Open Web Experience Management with Drupal",
+    "shortBio": "CEO @ INsReady",
     "title": "Intro to Open Web Experience Management with Drupal"
   },
   {
@@ -54,7 +52,7 @@
     "name": "Allen Zheng",
     "photo": "/images/speakers/allenzheng.jpg",
     "photoUrl": "/images/speakers/allenzheng.jpg",
-    "shortBio": "Drupal headless and decoupled",
+    "shortBio": "Lead Developer @ CI&T",
     "title": "Drupal headless and decoupled"
   },
   {
