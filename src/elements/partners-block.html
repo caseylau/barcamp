@@ -104,7 +104,7 @@
         return {
           partners: {
             type: Array,
-            // statePath: 'partners.list',
+            computed: '_computeDataPartners()',
           },
           partnersFetching: {
             type: Boolean,
@@ -125,45 +125,28 @@
           },
         };
       }
+      _computeDataPartners() {
+        var response = '';
+        this._getResourcePartners({
+          url: '/data/sponsor.json',
+          onLoad(e) {
+            response = JSON.parse(e.target.responseText);
+          },
+        });
+        return response;
+      }
 
+      _getResourcePartners(rq) {
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', rq.onLoad.bind(this));
+        xhr.open('GET', rq.url, false);
+        xhr.send();
+      }
       connectedCallback() {
         super.connectedCallback();
         // if (!this.partnersFetching && (!this.partners || !this.partners.length)) {
         //   this.dispatch(partnersActions.fetchPartners());
         // }
-          this.partners = [
-              {
-                  'logos': [{
-                      'logoUrl': '/images/logos/techyizu.png',
-                      'name': 'techyizu',
-                      'url': 'https://www.techyizu.org/',
-                  }],
-                  'title': 'Organizer',
-              },
-              {
-                  'logos': [{
-                      'logoUrl': '/images/logos/chinaccelerator.png',
-                      'name': 'chinaccelerator',
-                      'url': 'https://chinaccelerator.com/cn/',
-                  }, {
-                      'logoUrl': '/images/logos/nyu.png',
-                      'name': 'nyu',
-                      'url': 'https://shanghai.nyu.edu/cn/',
-                  }, {
-                      'logoUrl': '/images/logos/people.png',
-                      'name': 'people',
-                      'url': 'http://www.people-squared.com/',
-                  }, {
-                      'logoUrl': '/images/logos/cit.png',
-                      'name': 'cit',
-                      'url': 'https://www.ciandt.com.cn/',
-                    }, {
-                    'logoUrl': '/images/logos/blackmores.png',
-                    'name': 'blackmores',
-                    'url': 'https://www.blackmores.com.cn/',
-                  }],
-                  'title': 'Gold Sponsors',
-              }];
       }
 
       _addPotentialPartner() {

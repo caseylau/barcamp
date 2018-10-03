@@ -1,0 +1,34 @@
+[
+  {
+    "logos": [{
+      "logoUrl": "/images/logos/techyizu.png",
+      "name": "techyizu",
+      "url": "https://www.techyizu.org/"
+    }],
+    "title": "Organizer"
+  },
+  {
+    "logos": [{
+      "logoUrl": "/images/logos/chinaccelerator.png",
+      "name": "chinaccelerator",
+      "url": "https://chinaccelerator.com/cn/"
+    }, {
+      "logoUrl": "/images/logos/nyu.png",
+      "name": "nyu",
+      "url": "https://shanghai.nyu.edu/cn/"
+    }, {
+      "logoUrl": "/images/logos/people.png",
+      "name": "people",
+      "url": "http://www.people-squared.com/"
+    }, {
+      "logoUrl": "/images/logos/cit.png",
+      "name": "cit",
+      "url": "https://www.ciandt.com.cn/"
+    }, {
+      "logoUrl": "/images/logos/blackmores.png",
+      "name": "blackmores",
+      "url": "https://www.blackmores.com.cn/"
+    }],
+    "title": "Gold Sponsors"
+  }
+]
