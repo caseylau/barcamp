@@ -84,13 +84,6 @@
     "photo": "../../images/speakers/nathanieltan.jpg",
     "photoUrl": "../../images/speakers/nathanieltan.jpg",
     "shortBio": "User Scenario Game Design",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/",
-        "name": "Google+"
-      }
-    ],
     "title": "Game Development Director and Head of Department"
   },
   {
@@ -104,13 +97,6 @@
     "photo": "../../images/speakers/mikeren2.jpg",
     "photoUrl": "../../images/speakers/mikeren2.jpg",
     "shortBio": "Talk Topic: How I went from making films to making games.  (And the fluidity of it all)",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/",
-        "name": "Google+"
-      }
-    ],
     "title": "Indie Game Designer / Filmmaker"
   },
   {
@@ -144,13 +130,6 @@
     "photo": "../../images/speakers/kevinc.jpg",
     "photoUrl": "../../images/speakers/kevinc.jpg",
     "shortBio": "General Advice on Startup",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/",
-        "name": "Google+"
-      }
-    ],
     "title": "Cofounder of italki, organizer at Techyizu"
   },
   {
