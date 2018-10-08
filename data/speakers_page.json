@@ -1,57 +1,54 @@
 [
   {
-    "bio": "Grand architect of TiDB/TiKV",
     "company": "PingCAP",
+    "country": "Grand architect of TiDB/TiKV & CTO @ PingCAP",
     "companyLogo": "/images/speakers/company/pingcap.png",
     "companyLogoUrl": "/images/speakers/company/pingcap.png",
     "featured": true,
     "name": "Ed Huang",
     "photo": "/images/speakers/edhuang.jpeg",
     "photoUrl": "/images/speakers/edhuang.jpeg",
-    "shortBio": "Grand architect of TiDB/TiKV",
+    "shortBio": "Journey to 15000 stars: The story of TiDB",
     "socials": [
       {
         "icon": "twitter",
         "link": "https://twitter.com/c4pt0r",
         "name": "Twitter"
       }
-    ],
-    "title": "Co-founder & CTO of PingCAP"
+    ]
   },
   {
-    "bio": "",
     "company": "迷上我",
+    "country": "Producer & Host @ <成真恋爱学>",
     "companyLogo": "/images/speakers/company/mishangwo.png",
     "companyLogoUrl": "/images/speakers/company/mishangwo.png",
     "featured": true,
     "name": "成真",
     "photo": "/images/speakers/chenzhen.jpg",
     "photoUrl": "/images/speakers/chenzhen.jpg",
-    "shortBio": "Producer & Host @ 《成真恋爱学》",
-    "title": "Producer & Host @ 《成真恋爱学》"
+    "shortBio": "Secrets Most Men Will Never Know About Girls and Dating.",
   },
   {
-    "bio": "",
     "company": "INsready",
+    "country": "CEO @ INsReady & Google Summer of Code Mentor @ Drupal",
     "companyLogo": "/images/speakers/company/insready.png",
     "companyLogoUrl": "/images/speakers/company/insready.png",
     "featured": true,
     "name": "Jingsheng Wang",
     "photo": "/images/team/skyred.jpg",
     "photoUrl": "/images/team/skyred.jpg",
-    "shortBio": "CEO @ INsReady",
+    "shortBio": "Intro to Open Web Experience Management with Drupal",
     "socials": [
       {
         "icon": "twitter",
         "link": "https://twitter.com/skyredwang",
         "name": "Twitter"
       }
-    ],
-    "title": "Intro to Open Web Experience Management with Drupal"
+    ]
   },
   {
-    "bio": "",
     "company": "CI&T",
+    "country": "Lead Developer @ CI&T",
     "companyLogo": "/images/logos/cit.png",
     "companyLogoUrl": "/images/logos/cit.png",
     "country": "CI&T - Web Developer",
@@ -59,22 +56,20 @@
     "name": "Allen Zheng",
     "photo": "/images/speakers/allenzheng.jpg",
     "photoUrl": "/images/speakers/allenzheng.jpg",
-    "shortBio": "Lead Developer @ CI&T",
-    "title": "Drupal headless and decoupled"
+    "shortBio": "Drupal headless and decoupled",
   },
   {
-    "bio": "",
     "company": "CI&T",
+    "country": "Developer Master @ CI&T",
     "companyLogo": "/images/logos/cit.png",
     "companyLogoUrl": "/images/logos/cit.png",
     "featured": true,
     "name": "Weynham Zheng",
     "photo": "/images/speakers/weynham.jpeg",
     "photoUrl": "/images/speakers/weynham.jpeg",
-    "shortBio": "Developer Master @ CI&T"
+    "shortBio": "Drupal headless and decoupled"
   },
   {
-    "bio": "Talk Topic: User Scenario Game Design",
     "company": "Shanghai Vancouver Film School",
     "companyLogo": "../../images/speakers/shvfs_logo.jpg",
     "companyLogoUrl": "../../images/speakers/shvfs_logo.jpg",
@@ -84,53 +79,36 @@
     "photo": "../../images/speakers/nathanieltan.jpg",
     "photoUrl": "../../images/speakers/nathanieltan.jpg",
     "shortBio": "User Scenario Game Design",
-    "title": "Game Development Director and Head of Department"
   },
   {
-    "bio": "Talk Topic: How I went from making films to making games.  (And the fluidity of it all)",
-    "company": "",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
-    "country": "",
+    "country": "Indie Game Designer / Filmmaker",
     "featured": true,
     "name": "Mike Ren",
     "photo": "../../images/speakers/mikeren2.jpg",
     "photoUrl": "../../images/speakers/mikeren2.jpg",
-    "shortBio": "Talk Topic: How I went from making films to making games.  (And the fluidity of it all)",
-    "title": "Indie Game Designer / Filmmaker"
+    "shortBio": "How I went from making films to making games.  (And the fluidity of it all)",
   },
   {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company": "Sygic",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "company": "Shanghai Vancouver Film School",
+    "companyLogo": "../../images/speakers/shvfs_logo.jpg",
+    "companyLogoUrl": "../../images/speakers/shvfs_logo.jpg",
+    "country": "Lead Game Designer/Part-Time Instructor @ Shanghai Vancouver Film School",
     "featured": true,
-    "name": "Adrian Kajda",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
-    "title": "Product Manager/Developer"
+    "name": "Cliff Chiu",
+    "photo": "../../images/speakers/cliff_chiu.jpeg",
+    "photoUrl": "../../images/speakers/cliff_chiu.jpeg",
+    "shortBio": "The Basics of Game Design"
   },
   {
-    "bio": "General Advice on Startup",
     "company": "italki",
-    "companyLogo": "../../images/speakers/italki-logo.jpg",
-    "companyLogoUrl": "../../images/speakers/italki-logo.jpg",
-    "country": "",
+    "companyLogo": "../../images/speakers/italki_logo.jpg",
+    "companyLogoUrl": "../../images/speakers/italki_logo.jpg",
+    "country": "Cofounder of italki, organizer at Techyizu",
     "featured": true,
     "name": "Kevin Chen",
     "photo": "../../images/speakers/kevinc.jpg",
     "photoUrl": "../../images/speakers/kevinc.jpg",
-    "shortBio": "General Advice on Startup",
-    "title": "Cofounder of italki, organizer at Techyizu"
+    "shortBio": "General Advice on Startup"
   },
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
