@@ -216,11 +216,11 @@
             "gridArea": "5 / 4 / 7 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Beginner",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
-                "tags": ["Drupal", "Web Beginner"],
-                "tagsColor": "#05B700",
+                "tags": ["Drupal"],
+                "tagsColor": "#2196f3",
                 "title" : "Intro to Open Web Experience Management with Drupal",
                 "track": {"title": "Expo hail"},
                 "speakers": [{
