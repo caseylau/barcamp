@@ -111,24 +111,12 @@
     "shortBio": "General Advice on Startup"
   },
   {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company": "Sygic",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "country": "Environmental Psychologist and Mediator",
     "featured": true,
-    "name": "Adrian Kajda",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
-    "title": "Product Manager/Developer"
+    "name": "Adina Deacu (邱天美）",
+    "photo": "../../images/speakers/adenadeacu.jpg",
+    "photoUrl": "../../images/speakers/adenadeacu.jpg",
+    "shortBio": "Bravery or Craziness - Foreign Female Entrepreneurs and their challenges in China",
   },
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
