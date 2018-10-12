@@ -437,10 +437,15 @@
               {
                 "complexity": "Intermediate",
                 "duration": {"hh": "1", "mm": "0"},
-                "language": "English",
+                "language": "Chinese",
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
-                "title" : "DrupalCampChina 2018 Reserved Session"
+                "title" : "Drupal在电子政务方面的应用",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/cuikejun.png",
+                  "name": "崔克俊",
+                  "company": "亚艾元"
+                }]
               }
             ]
           },
