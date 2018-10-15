@@ -48,7 +48,6 @@
   },
   {
     "company": "CI&T",
-    "country": "Lead Developer @ CI&T",
     "companyLogo": "/images/logos/cit.png",
     "companyLogoUrl": "/images/logos/cit.png",
     "country": "CI&T - Web Developer",
@@ -71,63 +70,73 @@
   },
   {
     "company": "Shanghai Vancouver Film School",
-    "companyLogo": "../../images/speakers/shvfs_logo.jpg",
-    "companyLogoUrl": "../../images/speakers/shvfs_logo.jpg",
+    "companyLogo": "/images/speakers/shvfs_logo.jpg",
+    "companyLogoUrl": "/images/speakers/shvfs_logo.jpg",
     "country": "Development Director Peak Pixel Games, Head of Department GD Program Shanghai Vancouver Film School",
     "featured": true,
     "name": "Nathaniel Tan",
-    "photo": "../../images/speakers/nathanieltan.jpg",
-    "photoUrl": "../../images/speakers/nathanieltan.jpg",
+    "photo": "/images/speakers/nathanieltan.jpg",
+    "photoUrl": "/images/speakers/nathanieltan.jpg",
     "shortBio": "User Scenario Game Design"
   },
   {
     "country": "Indie Game Designer / Filmmaker",
     "featured": true,
     "name": "Mike Ren",
-    "photo": "../../images/speakers/mikeren2.jpg",
-    "photoUrl": "../../images/speakers/mikeren2.jpg",
+    "photo": "/images/speakers/mikeren2.jpg",
+    "photoUrl": "/images/speakers/mikeren2.jpg",
     "shortBio": "How I went from making films to making games.  (And the fluidity of it all)"
   },
   {
     "company": "Shanghai Vancouver Film School",
-    "companyLogo": "../../images/speakers/shvfs_logo.jpg",
-    "companyLogoUrl": "../../images/speakers/shvfs_logo.jpg",
+    "companyLogo": "/images/speakers/shvfs_logo.jpg",
+    "companyLogoUrl": "/images/speakers/shvfs_logo.jpg",
     "country": "Lead Game Designer/Part-Time Instructor @ Shanghai Vancouver Film School",
     "featured": true,
     "name": "Cliff Chiu",
-    "photo": "../../images/speakers/cliff_chiu.jpg",
-    "photoUrl": "../../images/speakers/cliff_chiu.jpg",
+    "photo": "/images/speakers/cliff_chiu.jpg",
+    "photoUrl": "/images/speakers/cliff_chiu.jpg",
     "shortBio": "The Basics of Game Design"
   },
   {
     "company": "italki",
-    "companyLogo": "../../images/speakers/italki_logo.jpg",
-    "companyLogoUrl": "../../images/speakers/italki_logo.jpg",
+    "companyLogo": "/images/speakers/italki_logo.jpg",
+    "companyLogoUrl": "/images/speakers/italki_logo.jpg",
     "country": "Cofounder of italki, organizer at Techyizu",
     "featured": true,
     "name": "Kevin Chen",
-    "photo": "../../images/speakers/kevinc.jpg",
-    "photoUrl": "../../images/speakers/kevinc.jpg",
+    "photo": "/images/speakers/kevinc.jpg",
+    "photoUrl": "/images/speakers/kevinc.jpg",
     "shortBio": "General Advice on Startup"
   },
   {
     "country": "Environmental Psychologist and Mediator",
     "featured": true,
     "name": "Adina Deacu (邱天美）",
-    "photo": "../../images/speakers/adenadeacu.jpg",
-    "photoUrl": "../../images/speakers/adenadeacu.jpg",
+    "photo": "/images/speakers/adenadeacu.jpg",
+    "photoUrl": "/images/speakers/adenadeacu.jpg",
     "shortBio": "Bravery or Craziness - Foreign Female Entrepreneurs and their challenges in China"
   },
   {
+    "companyLogo": "/images/speakers/company/yaaiyuan.png",
+    "companyLogoUrl": "/images/speakers/company/yaaiyuan.png",
+    "country": "CEO @亚艾元",
+    "featured": true,
+    "name": "崔克俊",
+    "photo": "/images/speakers/cuikejun.png",
+    "photoUrl": "/images/speakers/cuikejun.png",
+    "shortBio": "Cofounder of 亚艾元"
+  },
+  {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
     "company": "Sygic",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
+    "companyLogo": "/images/people/company/microsoft.png",
+    "companyLogoUrl": "/images/people/company/microsoft.png",
     "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
     "featured": true,
-    "name": "Adrian Kajda",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
+    "name": "cuik",
+    "photo": "/images/speakers/speaker.jpeg",
+    "photoUrl": "/images/speakers/speaker.jpeg",
     "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
     "socials": [
       {
@@ -141,13 +150,13 @@
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
     "company": "Sygic",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
+    "companyLogo": "/images/people/company/microsoft.png",
+    "companyLogoUrl": "/images/people/company/microsoft.png",
     "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
     "featured": true,
     "name": "Adrian Kajda",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
+    "photo": "/images/speakers/speaker.jpeg",
+    "photoUrl": "/images/speakers/speaker.jpeg",
     "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
     "socials": [
       {
@@ -161,33 +170,13 @@
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
     "company": "Sygic",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
+    "companyLogo": "/images/people/company/microsoft.png",
+    "companyLogoUrl": "/images/people/company/microsoft.png",
     "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
     "featured": true,
     "name": "Adrian Kajda",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
-    "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
-    "title": "Product Manager/Developer"
-  },
-  {
-    "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company": "Sygic",
-    "companyLogo": "../../images/people/company/microsoft.png",
-    "companyLogoUrl": "../../images/people/company/microsoft.png",
-    "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
-    "featured": true,
-    "name": "Adrian Kajda",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
+    "photo": "/images/speakers/speaker.jpeg",
+    "photoUrl": "/images/speakers/speaker.jpeg",
     "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
     "socials": [
       {
