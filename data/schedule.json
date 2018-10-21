@@ -37,7 +37,12 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "Lean Startup",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/trevor-owens.jpg",
+                  "name": "Trevor Owens",
+                  "company": "leanvp"
+                }]
               }
             ]
           },
