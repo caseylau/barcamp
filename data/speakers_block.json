@@ -35,41 +35,27 @@
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
     "company": "Sygic",
-    "companyLogo": "/images/speakers/company/google.png",
-    "companyLogoUrl": "/images/speakers/company/google.png",
-    "country": "OPEN",
+    "companyLogo": "/images/logos/blackmores.png",
+    "companyLogoUrl": "/images/logos/blackmores.png",
+    "country": "Nutritionist of Blackmores China,",
     "featured": true,
-    "name": "Speaker",
-    "photo": "/images/speakers/speaker.jpeg",
-    "photoUrl": "/images/speakers/speaker.jpeg",
+    "name": "Vanessa Fan",
+    "photo": "/images/speakers/vanessa_fan.jpg",
+    "photoUrl": "/images/speakers/vanessa_fan.jpg",
     "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
     "title": "Product Manager/Developer"
   },
   {
     "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
     "company": "Sygic",
-    "companyLogo": "/images/speakers/company/microsoft.png",
-    "companyLogoUrl": "/images/speakers/company/microsoft.png",
-    "country": "OPEN",
+    "companyLogo": "/images/logos/leanvp.svg",
+    "companyLogoUrl": "/images/logos/leanvp.svg",
+    "country": "Partner at Lean Venture Partners",
     "featured": true,
-    "name": "Speaker",
-    "photo": "../../images/speakers/speaker.jpeg",
-    "photoUrl": "../../images/speakers/speaker.jpeg",
+    "name": "Trevor Owens",
+    "photo": "/images/speakers/trevor-owens.jpg",
+    "photoUrl": "/images/speakers/trevor-owens.jpg",
     "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials": [
-      {
-        "icon": "gplus",
-        "link": "plus.google.com/+AdrianKajda",
-        "name": "Google+"
-      }
-    ],
-    "title": "Product Manager/Developer"
+    "title": "Partner at Lean Venture Partners"
   }
 ]
