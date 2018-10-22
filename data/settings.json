@@ -115,8 +115,8 @@
     "label": "Location",
     "name": "NYU Shanghai",
     "city": "NYU Shanghai",
-    "short": "NYU",
-    "address": "1555 Century Avenue, Pudong, Shanghai, China 200122",
+    "short": "New York University Shanghai 1555 Century Avenue, Pudong",
+    "address": "New York University Shanghai 1555 Century Avenue, Pudong",
     "pointer": {
       "latitude": 121.540669,
       "longitude": 31.231978,
