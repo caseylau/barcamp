@@ -278,12 +278,17 @@
             "gridArea": "7 / 1 / 7 / 2",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Beginner",
                 "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
+                "language": "Chinese",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "压力与营养",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/vanessa_fan.jpg",
+                  "name": "Vanessa Fan",
+                  "company": "Blackmores China"
+                }]
               }
             ]
           },
