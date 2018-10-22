@@ -3,14 +3,14 @@
     "date": "2018-1-10",
     "dateReadable": "November 10",
     "tags": [
-      "Drupal","Barcamp","Web Beginner"
+      "Drupal","Barcamp"
     ],
     "timeslots": [
       {
         "startTime": "10:00",
         "sessions": [
           {
-            "gridArea": "1 / 1 / 1 / 6",
+            "gridArea": "1 / 1 / 1 / 5",
             "items": [
               {
                 "complexity": "Beginner",
@@ -89,19 +89,6 @@
                 }]
               }
             ]
-          },
-          {
-            "gridArea": "2 / 5 / 4 / 6",
-            "items": [
-              {
-                "complexity": "start",
-                "duration": {"hh": "1", "mm": "0"},
-                "language": "English",
-                "tags": ["Web Beginner"],
-                "tagsColor": "#05B700",
-                "title" : "Web Beginner Track Reserved Session"
-              }
-            ]
           }
         ],
         "endTime": "11:59"
@@ -155,7 +142,7 @@
         "startTime": "12:00",
         "sessions": [
           {
-            "gridArea": "4 / 1 / 4 / 6",
+            "gridArea": "4 / 1 / 4 / 5",
             "items": [
               {
                 "duration": {"hh": "1", "mm": "30"},
@@ -218,7 +205,7 @@
             ]
           },
           {
-            "gridArea": "5 / 4 / 7 / 6",
+            "gridArea": "5 / 4 / 7 / 5",
             "items": [
               {
                 "complexity": "Beginner",
@@ -339,19 +326,6 @@
                 }]
               }
             ]
-          },
-          {
-            "gridArea": "7 / 5 / 9 / 6",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "1", "mm": "0"},
-                "language": "English",
-                "tags": ["Web Beginner"],
-                "tagsColor": "#05B700",
-                "title" : "Web Beginner Track Reserved Session"
-              }
-            ]
           }
         ]
       },
@@ -458,19 +432,6 @@
                 }]
               }
             ]
-          },
-          {
-            "gridArea": "9 / 5 / 11 / 6",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "1", "mm": "0"},
-                "language": "English",
-                "tags": ["Web Beginner"],
-                "tagsColor": "#05B700",
-                "title" : "Web Beginner Track Reserved Session"
-              }
-            ]
           }
         ],
         "endTime": "14:59"
@@ -573,19 +534,6 @@
                 "title" : "DrupalCampChina 2018 Reserved Session"
               }
             ]
-          },
-          {
-            "gridArea": "11 / 5 / 13 / 6",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "1", "mm": "0"},
-                "language": "English",
-                "tags": ["Web Beginner"],
-                "tagsColor": "#05B700",
-                "title" : "Web Beginner Track Reserved Session"
-              }
-            ]
           }
         ],
         "endTime": "14:59"
@@ -623,7 +571,7 @@
         "startTime": "19:00",
         "sessions": [
           {
-            "gridArea": "13 / 1 / 13 / 6",
+            "gridArea": "13 / 1 / 13 / 5",
             "items": [
               {
                 "duration": {"hh": "5", "mm": "0"},
@@ -649,9 +597,6 @@
       },
       {
         "title": "Drupal"
-      },
-      {
-        "title": "Web Beginner"
       }
     ]
   }
