@@ -37,12 +37,7 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Lean Startup",
-                "speakers": [{
-                  "photoUrl": "/images/speakers/trevor-owens.jpg",
-                  "name": "Trevor Owens",
-                  "company": "leanvp"
-                }]
+                "title" : "Please propose your idea!"
               }
             ]
           },
@@ -262,19 +257,19 @@
         "startTime": "15:00",
         "sessions": [
           {
-            "gridArea": "7 / 1 / 7 / 2",
+            "gridArea": "7 / 1 / 9 / 2",
             "items": [
               {
-                "complexity": "Beginner",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "Chinese",
+                "complexity": "Intermediate",
+                "duration": {"hh": "1"},
+                "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "压力与营养",
+                "title" : "Lean Startup",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/vanessa_fan.jpg",
-                  "name": "Vanessa Fan",
-                  "company": "Blackmores China"
+                  "photoUrl": "/images/speakers/trevor-owens.jpg",
+                  "name": "Trevor Owens",
+                  "company": "leanvp"
                 }]
               }
             ]
@@ -333,19 +328,6 @@
         "startTime": "15:30",
         "sessions": [
           {
-            "gridArea": "8 / 1 / 8 / 2",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
-              }
-            ]
-          },
-          {
             "gridArea": "8 / 2 / 8 / 3",
             "items": [
               {
@@ -377,15 +359,20 @@
         "startTime": "16:00",
         "sessions": [
           {
-            "gridArea": "9 / 1 / 9 / 2",
+            "gridArea": "9 / 1 / 11 / 2",
             "items": [
               {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
+                "complexity": "Beginner",
+                "duration": {"hh": "1"},
+                "language": "Chinese",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "压力与营养",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/vanessa_fan.jpg",
+                  "name": "Vanessa Fan",
+                  "company": "Blackmores China"
+                }]
               }
             ]
           },
@@ -439,19 +426,6 @@
       {
         "startTime": "16:30",
         "sessions": [
-          {
-            "gridArea": "10 / 1 / 10 / 2",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
-              }
-            ]
-          },
           {
             "gridArea": "10 / 2 / 10 / 3",
             "items": [
@@ -568,13 +542,13 @@
       },
 
       {
-        "startTime": "19:00",
+        "startTime": "18:30",
         "sessions": [
           {
             "gridArea": "13 / 1 / 13 / 5",
             "items": [
               {
-                "duration": {"hh": "5", "mm": "0"},
+                "duration": {"hh": "4", "mm": "0"},
                 "title" : "Afterparty",
                 "icon" : "party",
                 "track": {"title": "Expo hail"}
@@ -582,7 +556,7 @@
             ]
           }
         ],
-        "endTime": "24:00"
+        "endTime": "22:30"
       }
     ],
     "tracks": [
