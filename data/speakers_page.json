@@ -147,7 +147,14 @@
     "name": "Trevor Owens",
     "photo": "/images/speakers/trevor-owens.jpg",
     "photoUrl": "/images/speakers/trevor-owens.jpg",
-    "shortBio": "Lean Startup"
+    "shortBio": "Lean Startup",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/to",
+        "name": "Twitter"
+      }
+    ]
   },
   {
     "bio": "",

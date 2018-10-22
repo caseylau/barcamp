@@ -56,6 +56,13 @@
     "photo": "/images/speakers/trevor-owens.jpg",
     "photoUrl": "/images/speakers/trevor-owens.jpg",
     "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "title": "Partner at Lean Venture Partners"
+    "title": "Partner at Lean Venture Partners",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/to",
+        "name": "Twitter"
+      }
+    ]
   }
 ]
