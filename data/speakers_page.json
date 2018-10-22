@@ -125,31 +125,29 @@
     "name": "崔克俊",
     "photo": "/images/speakers/cuikejun.png",
     "photoUrl": "/images/speakers/cuikejun.png",
-    "shortBio": "Cofounder of 亚艾元"
+    "shortBio": "Drupal在电子政务方面的应用"
   },
   {
     "company": "Sygic",
     "companyLogo": "/images/logos/blackmores.png",
     "companyLogoUrl": "/images/logos/blackmores.png",
-    "country": "Nutritionist of Blackmores China,",
+    "country": "Nutritionist @ Blackmores China,",
     "featured": true,
     "name": "Vanessa Fan",
     "photo": "/images/speakers/vanessa_fan.jpg",
     "photoUrl": "/images/speakers/vanessa_fan.jpg",
-    "shortBio": "",
-    "title": "Product Manager/Developer"
+    "shortBio": "压力与营养"
   },
   {
     "company": "Sygic",
     "companyLogo": "/images/logos/leanvp.svg",
     "companyLogoUrl": "/images/logos/leanvp.svg",
-    "country": "Partner at Lean Venture Partners",
+    "country": "Partner @ Lean Venture Partners",
     "featured": true,
     "name": "Trevor Owens",
     "photo": "/images/speakers/trevor-owens.jpg",
     "photoUrl": "/images/speakers/trevor-owens.jpg",
-    "shortBio": "",
-    "title": "Partner at Lean Venture Partners"
+    "shortBio": "Lean Startup"
   },
   {
     "bio": "",
