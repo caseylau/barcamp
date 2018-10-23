@@ -426,12 +426,17 @@
             "gridArea": "11 / 1 / 11 / 2",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Beginner",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "General Advice on Startup",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/kevinc.jpg",
+                  "name": "Kevin Chen",
+                  "company": "italki"
+                }]
               }
             ]
           },
