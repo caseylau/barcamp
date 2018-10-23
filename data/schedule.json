@@ -55,15 +55,20 @@
             ]
           },
           {
-            "gridArea": "2 / 3 / 2 / 4",
+            "gridArea": "2 / 3 / 4 / 4",
             "items": [
               {
                 "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
+                "duration": {"hh": "1"},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "The Basics of Game Design",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/cliff_chiu.jpg",
+                  "name": "Cliff Chiu",
+                  "company": "Shanghai Vancouver Film School"
+                }]
               }
             ]
           },
@@ -106,19 +111,6 @@
           },
           {
             "gridArea": "3 / 2 / 3 / 3",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
-              }
-            ]
-          },
-          {
-            "gridArea": "3 / 3 / 3 / 4",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -186,16 +178,19 @@
             ]
           },
           {
-            "gridArea": "5 / 3 / 5 / 4",
+            "gridArea": "5 / 3 / 7 / 4",
             "items": [
               {
                 "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
+                "duration": {"hh": "1"},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Barcamp"}
+                "title" : "How I went from making films to making games.  (And the fluidity of it all)",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/mikeren2.jpg",
+                  "name": "Mike Ren"
+                }]
               }
             ]
           },
@@ -226,19 +221,6 @@
         "sessions": [
           {
             "gridArea": "6 / 2 / 6 / 3",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
-              }
-            ]
-          },
-          {
-            "gridArea": "6 / 3 / 6 / 4",
             "items": [
               {
                 "complexity": "Intermediate",
@@ -288,15 +270,20 @@
             ]
           },
           {
-            "gridArea": "7 / 3 / 7 / 4",
+            "gridArea": "7 / 3 / 9 / 4",
             "items": [
               {
                 "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
+                "duration": {"hh": 1},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "User Scenario Game Design",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/nathanieltan.jpg",
+                  "name": "Nathaniel Tan",
+                  "company": "Shanghai Vancouver Film School"
+                }]
               }
             ]
           },
@@ -329,19 +316,6 @@
         "sessions": [
           {
             "gridArea": "8 / 2 / 8 / 3",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
-              }
-            ]
-          },
-          {
-            "gridArea": "8 / 3 / 8 / 4",
             "items": [
               {
                 "complexity": "Intermediate",
