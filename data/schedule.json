@@ -172,8 +172,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "track": {"title": "Barcamp"}
+                "title" : "When exchanges shut down - Centralized vs. Decentralized",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "name": "Adela Chen"
+                }]
               }
             ]
           },
@@ -470,12 +473,16 @@
             "gridArea": "11 / 4 / 13 / 5",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Beginner",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["Drupal"],
                 "tagsColor": "#2196f3",
-                "title" : "DrupalCampChina 2018 Reserved Session"
+                "title" : "微信和小程序在东南亚的应用和发展",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "name": "杨潇"
+                }]
               }
             ]
           }
