@@ -32,12 +32,17 @@
             "gridArea": "2 / 1 / 2 / 2",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Beginner",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "The Dao of Troubleshooting",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/steve-mushero.jpeg",
+                  "name": "Steve Mushero",
+                  "company": "ChinaNetCloud"
+                }]
               }
             ]
           },
