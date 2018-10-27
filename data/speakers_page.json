@@ -155,5 +155,23 @@
         "name": "Twitter"
       }
     ]
+  },
+  {
+    "company": "ChinaNetCloud",
+    "companyLogo": "/images/logos/chinanetcloud.png",
+    "companyLogoUrl": "/images/logos/chinanetcloud.png",
+    "country": "CEO @ ChinaNetCloud",
+    "featured": true,
+    "name": "Trevor Owens",
+    "photo": "/images/speakers/steve-mushero.jpeg",
+    "photoUrl": "/images/speakers/steve-mushero.jpeg",
+    "shortBio": "The Dao of Troubleshooting  ",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/stevemushero/",
+        "name": "Linkedin"
+      }
+    ]
   }
 ]
