@@ -173,5 +173,12 @@
         "name": "Linkedin"
       }
     ]
+  },
+  {
+    "featured": true,
+    "name": "Donald Acker",
+    "photo": "/images/speakers/donald_square.png",
+    "photoUrl": "/images/speakers/donald_square.png",
+    "shortBio": "The Ethics of Algorithms"
   }
 ]

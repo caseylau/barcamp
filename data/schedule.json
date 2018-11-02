@@ -265,15 +265,19 @@
             ]
           },
           {
-            "gridArea": "7 / 2 / 7 / 3",
+            "gridArea": "7 / 2 / 9 / 3",
             "items": [
               {
                 "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
+                "duration": {"hh": "1"},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "The Ethics of Algorithms",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/donald_square.png",
+                  "name": "Donald Acker"
+                }]
               }
             ]
           },
@@ -323,16 +327,8 @@
         "startTime": "15:30",
         "sessions": [
           {
-            "gridArea": "8 / 2 / 8 / 3",
+            "gridArea": "8 / 2 / 9 / 3",
             "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
-              }
             ]
           }
         ]
