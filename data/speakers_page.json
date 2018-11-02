@@ -180,5 +180,12 @@
     "photo": "/images/speakers/donald_square.png",
     "photoUrl": "/images/speakers/donald_square.png",
     "shortBio": "The Ethics of Algorithms"
+  },
+  {
+    "featured": true,
+    "name": "Alan Stafford",
+    "photo": "/images/speakers/alan_stafford.jpg",
+    "photoUrl": "/images/speakers/alan_stafford.jpg",
+    "shortBio": "Playing with Machine Learning"
   }
 ]

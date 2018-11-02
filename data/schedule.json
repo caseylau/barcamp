@@ -110,7 +110,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "Playing with Machine Learning",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/alan_stafford.jpg",
+                  "name": "Alan Stafford"
+                }]
               }
             ]
           },
