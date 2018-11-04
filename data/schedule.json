@@ -47,15 +47,19 @@
             ]
           },
           {
-            "gridArea": "2 / 2 / 2 / 3",
+            "gridArea": "2 / 2 / 4 / 3",
             "items": [
               {
                 "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
+                "duration": {"hh": "1"},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "The Ethics of Algorithms",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/donald_square.png",
+                  "name": "Donald Acker"
+                }]
               }
             ]
           },
@@ -115,19 +119,6 @@
                   "photoUrl": "/images/speakers/alan_stafford.jpg",
                   "name": "Alan Stafford"
                 }]
-              }
-            ]
-          },
-          {
-            "gridArea": "3 / 2 / 3 / 3",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
               }
             ]
           }
@@ -269,19 +260,15 @@
             ]
           },
           {
-            "gridArea": "7 / 2 / 9 / 3",
+            "gridArea": "7 / 2 / 7 / 3",
             "items": [
               {
                 "complexity": "Intermediate",
-                "duration": {"hh": "1"},
+                "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "The Ethics of Algorithms",
-                "speakers": [{
-                  "photoUrl": "/images/speakers/donald_square.png",
-                  "name": "Donald Acker"
-                }]
+                "title" : "Please propose your idea!"
               }
             ]
           },
@@ -333,6 +320,14 @@
           {
             "gridArea": "8 / 2 / 9 / 3",
             "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!"
+              }
             ]
           }
         ]
