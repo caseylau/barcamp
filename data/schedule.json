@@ -232,7 +232,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "Please propose your idea!",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "name": "Speaker"
+                }]
               }
             ]
           }
@@ -269,7 +273,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "Please propose your idea!",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "name": "Speaker"
+                }]
               }
             ]
           },
@@ -327,7 +335,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "Please propose your idea!",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "name": "Speaker"
+                }]
               }
             ]
           }
@@ -380,7 +392,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "Please propose your idea!",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "name": "Speaker"
+                }]
               }
             ]
           },
@@ -417,7 +433,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "Please propose your idea!",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "name": "Speaker"
+                }]
               }
             ]
           }
@@ -453,7 +473,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "Please propose your idea!",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "name": "Speaker"
+                }]
               }
             ]
           },
@@ -466,7 +490,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!"
+                "title" : "Please propose your idea!",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "name": "Speaker"
+                }]
               }
             ]
           },
