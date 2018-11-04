@@ -554,7 +554,8 @@
             "gridArea": "13 / 1 / 13 / 5",
             "items": [
               {
-                "complexity": "THE PRESS: Shunpao Building Han Kou road No.309 (Subway Line 2, Nanjing East Road station, Exit 3/4), 汉口路309号申报馆一楼(地铁2号线南京东路站,3/4号出口)",
+                "complexity": "THE PRESS: Shunpao Building Han Kou road No.309 (Subway Line 2, Nanjing East Road station, Exit 3/4)",
+                "location": "汉口路309号申报馆一楼(地铁2号线南京东路站,3/4号出口)",
                 "duration": {"hh": "4", "mm": "0"},
                 "title" : "Afterparty",
                 "icon" : "party",
