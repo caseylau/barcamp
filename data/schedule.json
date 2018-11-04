@@ -132,6 +132,7 @@
             "gridArea": "4 / 1 / 4 / 5",
             "items": [
               {
+                "complexity": "Cafeteria, basement floor (B1)",
                 "duration": {"hh": "1", "mm": "30"},
                 "title" : "Lunch",
                 "icon" : "lunch"
