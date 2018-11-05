@@ -187,5 +187,45 @@
     "photo": "/images/speakers/alan_stafford.jpg",
     "photoUrl": "/images/speakers/alan_stafford.jpg",
     "shortBio": "Playing with Machine Learning"
+  },
+  {
+    "companyLogoUrl": "/images/logos/chinaccelerator.png",
+    "country": "Program Manager @ Chinaccelerator ",
+    "name": "Chris Zhang",
+    "photoUrl": "/images/speakers/chris_zhang.png",
+    "shortBio": "Let's get started with growth hacking"
+  },
+  {
+    "country": "Head of Content & Social, Doremus APAC",
+    "name": "Xinlei Wang",
+    "photoUrl": "/images/speakers/xinlei_wang.png",
+    "shortBio": "Branded Content Through China’s Digital Transformation"
+  },
+  {
+    "companyLogoUrl": "/images/logos/LogoCBA.png",
+    "country": "Founder and CEO at CBA Consulting",
+    "name": "Yolanda He",
+    "photoUrl": "/images/speakers/yolanda_he.png",
+    "shortBio": "WFOE setup and maintenance"
+  },
+  {
+    "name": "Gregory Orton",
+    "photoUrl": "/images/speakers/gegory_orton.png",
+    "shortBio": "Full stack dev and product design"
+  },
+  {
+    "name": "Charles Umemoto",
+    "photoUrl": "/images/speakers/charles_umemoto.png",
+    "shortBio": "Full stack data specialist"
+  },
+  {
+    "name": "Frederik Bazin",
+    "photoUrl": "/images/speakers/frederik_bazin.png",
+    "shortBio": "Full stack dev and product design"
+  },
+  {
+    "name": "Zhang Xiaochen (Ray)",
+    "photoUrl": "/images/speakers/zhangxiaochen.png",
+    "shortBio": "Deep Learning/Algorithm Engineer"
   }
 ]
