@@ -477,7 +477,7 @@
                 "tagsColor": "#FF9300",
                 "title" : "Please propose your idea!",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/speaker.jpeg",
+                  "photoUrl": "",
                   "name": "Speaker"
                 }]
               }
