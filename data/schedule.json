@@ -55,10 +55,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
+                "title" : "Let's get started with growth hacking",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/speaker.jpeg",
-                  "name": "Speaker"
+                  "photoUrl": "/images/speakers/chris_zhang.png",
+                  "name": "Chris Zhang",
+                  "company": "Chinaccelerator"
                 }]
               }
             ]
@@ -131,10 +132,10 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
+                "title" : "When exchanges shut down - Centralized vs. Decentralized",
                 "speakers": [{
                   "photoUrl": "/images/speakers/speaker.jpeg",
-                  "name": "Speaker"
+                  "name": "Adela Chen"
                 }]
               }
             ]
@@ -190,10 +191,11 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "When exchanges shut down - Centralized vs. Decentralized",
+                "title" : "WFOE setup and maintenance",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/speaker.jpeg",
-                  "name": "Adela Chen"
+                  "photoUrl": "/images/speakers/yolanda_he.png",
+                  "name": "Yolanda He",
+                  "company": "CBA Consulting"
                 }]
               }
             ]
@@ -249,7 +251,7 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "The Ethics of Algorithms",
+                "title" : "Matchmaking, algorithms, and ethics",
                 "speakers": [{
                   "photoUrl": "/images/speakers/donald_square.png",
                   "name": "Donald Acker"
@@ -333,12 +335,12 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
+                "tags": ["CoderBunker"],
+                "tagsColor": "#0DC262",
+                "title" : "Full stack dev and product design",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/speaker.jpeg",
-                  "name": "Speaker"
+                  "photoUrl": "/images/speakers/gegory_orton.png",
+                  "name": "Gregory Orton"
                 }]
               }
             ]
@@ -357,11 +359,11 @@
                 "language": "Chinese",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "压力与营养",
+                "title" : "Branded Content Through China’s Digital Transformation",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/vanessa_fan.jpg",
-                  "name": "Vanessa Fan",
-                  "company": "Blackmores China"
+                  "photoUrl": "/images/speakers/xinlei_wang.png",
+                  "name": "Xinlei Wang",
+                  "company": "Doremus APAC"
                 }]
               }
             ]
@@ -390,12 +392,12 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
+                "tags": ["CoderBunker"],
+                "tagsColor": "#0DC262",
+                "title" : "Full stack data specialist",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/speaker.jpeg",
-                  "name": "Speaker"
+                  "photoUrl": "/images/speakers/charles_umemoto.png",
+                  "name": "Charles Umemoto"
                 }]
               }
             ]
@@ -431,12 +433,12 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
+                "tags": ["CoderBunker"],
+                "tagsColor": "#0DC262",
+                "title" : "Full stack dev and product design",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/speaker.jpeg",
-                  "name": "Speaker"
+                  "photoUrl": "/images/speakers/frederik_bazin.png",
+                  "name": "Frederik Bazin"
                 }]
               }
             ]
@@ -488,12 +490,12 @@
                 "complexity": "Intermediate",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
+                "tags": ["CoderBunker"],
+                "tagsColor": "#0DC262",
+                "title" : "Deep Learning/Algorithm Engineer",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/speaker.jpeg",
-                  "name": "Speaker"
+                  "photoUrl": "/images/speakers/zhangxiaochen.png",
+                  "name": "Xiaochen Zhang"
                 }]
               }
             ]
