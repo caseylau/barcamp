@@ -227,5 +227,11 @@
     "name": "Zhang Xiaochen (Ray)",
     "photoUrl": "/images/speakers/zhangxiaochen.png",
     "shortBio": "Deep Learning/Algorithm Engineer"
+  },
+  {
+    "companyLogoUrl": "/images/logos/cit.png",
+    "name": "Jason Wang",
+    "photoUrl": "/images/speakers/jason_wang.png",
+    "shortBio": "Digital Journey for a large shipping company with Drupal"
   }
 ]
