@@ -114,7 +114,7 @@
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "Chinese",
                 "tags": ["Drupal"],
-                "tagsColor": "#FF9300",
+                "tagsColor": "#2196f3",
                 "title" : "Digital Journey for a large shipping company with Drupal",
                 "speakers": [{
                   "photoUrl": "/images/speakers/jason_wang.png",
