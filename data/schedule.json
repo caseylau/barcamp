@@ -118,7 +118,8 @@
                 "title" : "Digital Journey for a large shipping company with Drupal",
                 "speakers": [{
                   "photoUrl": "/images/speakers/jason_wang.png",
-                  "name": "Jason Wang"
+                  "name": "Jason Wang",
+                  "company": "CI&T"
                 }]
               }
             ]
