@@ -10,7 +10,7 @@
         "startTime": "10:00",
         "sessions": [
           {
-            "gridArea": "1 / 1 / 1 / 5",
+            "gridArea": "1 / 1 / 1 / 6",
             "items": [
               {
                 "complexity": "Beginner",
@@ -99,6 +99,23 @@
                 }]
               }
             ]
+          },
+          {
+            "gridArea": "2 / 5 / 3 / 6",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Please propose your idea!",
+                "speakers": [{
+                  "photoUrl": "",
+                  "name": "Speaker"
+                }]
+              }
+            ]
           }
         ],
         "endTime": "11:59"
@@ -140,6 +157,23 @@
                 }]
               }
             ]
+          },
+          {
+            "gridArea": "3 / 5 / 3 / 6",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Dual token infrastructure",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/juliawu.png",
+                  "name": "Julian Wu"
+                }]
+              }
+            ]
           }
         ],
         "endTime": "14:59"
@@ -148,7 +182,7 @@
         "startTime": "12:00",
         "sessions": [
           {
-            "gridArea": "4 / 1 / 4 / 5",
+            "gridArea": "4 / 1 / 4 / 6",
             "items": [
               {
                 "complexity": "Cafeteria, basement floor (B1)",
@@ -236,6 +270,23 @@
                 }]
               }
             ]
+          },
+          {
+            "gridArea": "5 / 5 / 5 / 6",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Cryptocurrency in 2019",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/victor_lee.png",
+                  "name": "Victor Lee"
+                }]
+              }
+            ]
           }
         ],
         "endTime": "14:59"
@@ -256,6 +307,23 @@
                 "speakers": [{
                   "photoUrl": "/images/speakers/donald_square.png",
                   "name": "Donald Acker"
+                }]
+              }
+            ]
+          },
+          {
+            "gridArea": "6 / 5 / 6 / 6",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Social media on the blockchain. Is it meaningful?",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/huanry_huang.png",
+                  "name": "Huanry Huang"
                 }]
               }
             ]
@@ -587,6 +655,9 @@
       },
       {
         "title": "Drupal"
+      },
+      {
+        "title": "Barcamp"
       }
     ]
   }
