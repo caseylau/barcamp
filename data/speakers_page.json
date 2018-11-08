@@ -233,5 +233,20 @@
     "name": "Jason Wang",
     "photoUrl": "/images/speakers/jason_wang.png",
     "shortBio": "Digital Journey for a large shipping company with Drupal"
+  },
+  {
+    "name": "Julian Wu",
+    "photoUrl": "/images/speakers/juliawu.png",
+    "shortBio": "Dual token infrastructure"
+  },
+  {
+    "name": "Victor Lee",
+    "photoUrl": "/images/speakers/victor_lee.png",
+    "shortBio": "Cryptocurrency in 2019"
+  },
+  {
+    "name": "Huanry Huang",
+    "photoUrl": "/images/speakers/huanry_huang.png",
+    "shortBio": "Social media on the blockchain. Is it meaningful?"
   }
 ]
