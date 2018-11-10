@@ -32,7 +32,7 @@
             "gridArea": "2 / 1 / 2 / 2",
             "items": [
               {
-                "complexity": "Beginner",
+                "complexity": "Beginner(209)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -50,7 +50,7 @@
             "gridArea": "2 / 2 / 2 / 3",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(210)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -68,7 +68,7 @@
             "gridArea": "2 / 3 / 4 / 4",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(211)",
                 "duration": {"hh": "1"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -86,7 +86,7 @@
             "gridArea": "2 / 4 / 4 / 5",
             "items": [
               {
-                "complexity": "Beginner",
+                "complexity": "Beginner(203)",
                 "duration": {"hh": "1", "mm": "00"},
                 "language": "Chinese",
                 "tags": ["Drupal"],
@@ -104,7 +104,7 @@
             "gridArea": "2 / 5 / 3 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(212)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -127,7 +127,7 @@
             "gridArea": "3 / 1 / 3 / 2",
             "items": [
               {
-                "complexity": "Beginner",
+                "complexity": "Beginner(209)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "Chinese",
                 "tags": ["Drupal"],
@@ -145,7 +145,7 @@
             "gridArea": "3 / 2 / 3 / 3",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(210)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -162,7 +162,7 @@
             "gridArea": "3 / 5 / 3 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(212)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -202,7 +202,7 @@
             "gridArea": "5 / 1 / 7 / 2",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(209)",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -221,7 +221,7 @@
             "gridArea": "5 / 2 / 5 / 3",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(210)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -239,7 +239,7 @@
             "gridArea": "5 / 3 / 7 / 4",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(211)",
                 "duration": {"hh": "1"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -256,7 +256,7 @@
             "gridArea": "5 / 4 / 7 / 5",
             "items": [
               {
-                "complexity": "Beginner",
+                "complexity": "Beginner(203)",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["Drupal"],
@@ -275,7 +275,7 @@
             "gridArea": "5 / 5 / 5 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(212)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -298,7 +298,7 @@
             "gridArea": "6 / 2 / 6 / 3",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(210)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -315,7 +315,7 @@
             "gridArea": "6 / 5 / 6 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(212)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -338,7 +338,7 @@
             "gridArea": "7 / 1 / 9 / 2",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(209)",
                 "duration": {"hh": "1"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -356,7 +356,7 @@
             "gridArea": "7 / 2 / 7 / 3",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(210)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -373,7 +373,7 @@
             "gridArea": "7 / 3 / 9 / 4",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(211)",
                 "duration": {"hh": 1},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -391,7 +391,7 @@
             "gridArea": "7 / 4 / 9 / 5",
             "items": [
               {
-                "complexity": "Advanced",
+                "complexity": "Advanced(203)",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "Chinese",
                 "tags": ["Drupal"],
@@ -413,7 +413,7 @@
             "gridArea": "7 / 5 / 7 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(212)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -435,7 +435,7 @@
             "gridArea": "8 / 2 / 9 / 3",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(210)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -452,7 +452,7 @@
             "gridArea": "8 / 5 / 8 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(212)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -474,7 +474,7 @@
             "gridArea": "9 / 1 / 11 / 2",
             "items": [
               {
-                "complexity": "Beginner",
+                "complexity": "Beginner(209)",
                 "duration": {"hh": "1"},
                 "language": "Chinese",
                 "tags": ["Barcamp"],
@@ -492,7 +492,7 @@
             "gridArea": "9 / 2 / 11 / 3",
             "items": [
               {
-                "complexity": "Beginner",
+                "complexity": "Beginner(210)",
                 "duration": {"hh": "1"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -509,7 +509,7 @@
             "gridArea": "9 / 3 / 9 / 4",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(211)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["CoderBunker"],
@@ -531,7 +531,7 @@
             "gridArea": "9 / 4 / 11 / 5",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(203)",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "Chinese",
                 "tags": ["Drupal"],
@@ -549,7 +549,7 @@
             "gridArea": "9 / 5 / 9 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(212)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -572,7 +572,7 @@
             "gridArea": "10 / 3 / 10 / 4",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(211)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["CoderBunker"],
@@ -589,7 +589,7 @@
             "gridArea": "10 / 5 / 10 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(212)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
@@ -608,45 +608,10 @@
         "startTime": "17:00",
         "sessions": [
           {
-            "gridArea": "11 / 1 / 11 / 2",
-            "items": [
-              {
-                "complexity": "Beginner",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "General Advice on Startup",
-                "speakers": [{
-                  "photoUrl": "/images/speakers/kevinc.jpg",
-                  "name": "Kevin Chen",
-                  "company": "italki"
-                }]
-              }
-            ]
-          },
-          {
-            "gridArea": "11 / 2 / 11 / 3",
-            "items": [
-              {
-                "complexity": "Intermediate",
-                "duration": {"hh": "0", "mm": "30"},
-                "language": "English",
-                "tags": ["Barcamp"],
-                "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
-                "speakers": [{
-                  "photoUrl": "",
-                  "name": "Speaker"
-                }]
-              }
-            ]
-          },
-          {
             "gridArea": "11 / 3 / 11 / 4",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(211)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["CoderBunker"],
@@ -663,7 +628,7 @@
             "gridArea": "11 / 4 / 13 / 5",
             "items": [
               {
-                "complexity": "Beginner",
+                "complexity": "Beginner(203)",
                 "duration": {"hh": "1", "mm": "0"},
                 "language": "English",
                 "tags": ["Drupal"],
@@ -680,7 +645,7 @@
             "gridArea": "11 / 5 / 11 / 6",
             "items": [
               {
-                "complexity": "Intermediate",
+                "complexity": "Intermediate(212)",
                 "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
