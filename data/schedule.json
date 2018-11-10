@@ -295,18 +295,18 @@
         "startTime": "14:30",
         "sessions": [
           {
-            "gridArea": "6 / 2 / 8 / 3",
+            "gridArea": "6 / 2 / 6 / 3",
             "items": [
               {
                 "complexity": "Intermediate",
-                "duration": {"hh": "1"},
+                "duration": {"hh": "0", "mm": "30"},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Matchmaking, algorithms, and ethics",
+                "title" : "Please propose your idea!",
                 "speakers": [{
-                  "photoUrl": "/images/speakers/donald_square.png",
-                  "name": "Donald Acker"
+                  "photoUrl": "",
+                  "name": "Speaker"
                 }]
               }
             ]
@@ -348,6 +348,23 @@
                   "photoUrl": "/images/speakers/trevor-owens.jpg",
                   "name": "Trevor Owens",
                   "company": "Lean Venture Partners"
+                }]
+              }
+            ]
+          },
+          {
+            "gridArea": "7 / 2 / 7 / 3",
+            "items": [
+              {
+                "complexity": "Intermediate",
+                "duration": {"hh": "0", "mm": "30"},
+                "language": "English",
+                "tags": ["Barcamp"],
+                "tagsColor": "#FF9300",
+                "title" : "Matchmaking, algorithms, and ethics",
+                "speakers": [{
+                  "photoUrl": "/images/speakers/donald_square.png",
+                  "name": "Donald Acker"
                 }]
               }
             ]
