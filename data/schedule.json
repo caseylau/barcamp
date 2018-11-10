@@ -378,12 +378,7 @@
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "User Scenario Game Design",
-                "speakers": [{
-                  "photoUrl": "/images/speakers/nathanieltan.jpg",
-                  "name": "Nathaniel Tan",
-                  "company": "Shanghai Vancouver Film School"
-                }]
+                "title" : "Game Design"
               }
             ]
           },
@@ -549,15 +544,16 @@
             "gridArea": "9 / 5 / 9 / 6",
             "items": [
               {
-                "complexity": "Intermediate(212)",
-                "duration": {"hh": "0", "mm": "30"},
+                "complexity": "Intermediate(211)",
+                "duration": {"hh": 1},
                 "language": "English",
                 "tags": ["Barcamp"],
                 "tagsColor": "#FF9300",
-                "title" : "Please propose your idea!",
+                "title" : "User Scenario Game Design",
                 "speakers": [{
-                  "photoUrl": "",
-                  "name": "Speaker"
+                  "photoUrl": "/images/speakers/nathanieltan.jpg",
+                  "name": "Nathaniel Tan",
+                  "company": "Shanghai Vancouver Film School"
                 }]
               }
             ]
